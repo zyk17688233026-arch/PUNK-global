@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PUNK PLANET 🌍 — 环球流行朋克电台</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bungee&family=Permanent+Marker&family=Press+Start+2P&family=Noto+Sans+SC:wght@400;700;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<!-- 噪点贴纸背景 -->
+<div class="noise"></div>
+<div class="grid-bg"></div>
+
+<!-- 顶部导航 -->
+<header class="topbar">
+  <div class="logo">
+    <span class="logo-mark">★</span>
+    <span class="logo-text">PUNK<span class="accent">·</span>PLANET</span>
+  </div>
+  <nav class="nav-links">
+    <a href="#globe-section" class="nav-link"><span class="material-symbols-outlined">public</span>地球</a>
+    <a href="#about" class="nav-link"><span class="material-symbols-outlined">info</span>关于</a>
+    <span class="live-dot"></span><span class="live-text">LIVE</span>
+  </nav>
+</header>
+
+<!-- Hero 区域 -->
+<section class="hero">
+  <div class="hero-bg-text">POP PUNK</div>
+  <div class="hero-content">
+    <div class="hero-tag">
+      <span class="material-symbols-outlined">music_note</span>
+      <span>EST. 2026 · GLOBAL EDITION</span>
+    </div>
+    <h1 class="hero-title">
+      <span class="title-line">环球</span>
+      <span class="title-line glitch" data-text="POP PUNK">POP PUNK</span>
+      <span class="title-line">推荐电台</span>
+    </h1>
+    <p class="hero-sub">点击旋转的地球，叫醒每个角落的<span class="highlight">少年心气</span>。<br/>从 Berkeley 到 Tokyo，从 Berlin 到 Bali — 全世界都在玩朋克 🤘</p>
+    <a href="#globe-section" class="cta-btn">
+      <span>开始旋转地球</span>
+      <span class="material-symbols-outlined">arrow_downward</span>
+    </a>
+  </div>
+  <!-- 飘动的胶带贴纸 -->
+  <div class="sticker sticker-1">★ ROCK ON</div>
+  <div class="sticker sticker-2">SK8 OR DIE</div>
+  <div class="sticker sticker-3">3 chords ✦ truth</div>
+  <div class="sticker sticker-4">2026</div>
+</section>
+
+<!-- 地球互动区 -->
+<section id="globe-section" class="globe-section">
+  <div class="section-header">
+    <h2 class="section-title">SPIN <span class="accent-text">THE</span> GLOBE</h2>
+    <p class="section-sub">拖动旋转 · 点击国家标记 · 解锁本土朋克声音</p>
+  </div>
+
+  <div class="globe-wrapper">
+    <!-- 左侧：地球容器 -->
+    <div class="globe-container">
+      <div id="globe"></div>
+      <!-- 提示 -->
+      <div class="globe-hint">
+        <span class="material-symbols-outlined">touch_app</span>
+        <span>拖动可旋转 · 滚轮缩放</span>
+      </div>
+      <!-- 标签 -->
+      <div class="globe-corner top-left">
+        <div class="corner-num">17</div>
+        <div class="corner-label">国家 / 地区</div>
+      </div>
+      <div class="globe-corner top-right">
+        <div class="corner-num">60+</div>
+        <div class="corner-label">乐队 / Bands</div>
+      </div>
+      <div class="globe-corner bottom-left">
+        <div class="corner-num">120+</div>
+        <div class="corner-label">推荐曲目</div>
+      </div>
+      <div class="globe-corner bottom-right">
+        <div class="corner-tape">↺ AUTO ROTATE</div>
+      </div>
+    </div>
+
+    <!-- 右侧：信息卡片区 -->
+    <div class="info-panel" id="infoPanel">
+      <div class="empty-state" id="emptyState">
+        <div class="empty-icon">🌎</div>
+        <h3>选一个国家试试看</h3>
+        <p>点击地球上的红色发光圆点，<br/>查看该国的流行朋克场景与推荐。</p>
+        <div class="quick-list">
+          <span class="material-symbols-outlined">trending_up</span>
+          <span>热门推荐：</span>
+          <button class="quick-btn" data-country="US">🇺🇸 美国</button>
+          <button class="quick-btn" data-country="JP">🇯🇵 日本</button>
+          <button class="quick-btn" data-country="GB">🇬🇧 英国</button>
+          <button class="quick-btn" data-country="CN">🇨🇳 中国</button>
+          <button class="quick-btn" data-country="CA">🇨🇦 加拿大</button>
+          <button class="quick-btn" data-country="AU">🇦🇺 澳洲</button>
+        </div>
+      </div>
+      <div class="country-detail hidden" id="countryDetail"></div>
+    </div>
+  </div>
+</section>
+
+<!-- About / 介绍 -->
+<section id="about" class="about-section">
+  <div class="about-card">
+    <div class="about-tag">ABOUT</div>
+    <h2>什么是流行朋克 (Pop Punk)？</h2>
+    <p>诞生于 90 年代的<strong>加州</strong>，是 <strong>朋克摇滚的旋律化分支</strong>：保留了朋克的能量、速度与三和弦推进，但更注重副歌的抓耳与情感表达。校园、青春、叛逆、初恋、焦虑、友谊 — 全是它的关键词 ✨</p>
+    <div class="timeline">
+      <div class="tl-item"><div class="tl-year">1994</div><div class="tl-text">Green Day《Dookie》引爆全球</div></div>
+      <div class="tl-item"><div class="tl-year">1999</div><div class="tl-text">Blink-182《Enema of the State》定义校园朋克</div></div>
+      <div class="tl-item"><div class="tl-year">2004</div><div class="tl-text">My Chemical Romance / Fall Out Boy 把朋克推向情绪化高峰</div></div>
+      <div class="tl-item"><div class="tl-year">2014</div><div class="tl-text">5SOS、Yungblud 开启 Z 世代复兴</div></div>
+      <div class="tl-item"><div class="tl-year">2026</div><div class="tl-text">PUNK PLANET 上线 🌍</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer class="footer">
+  <div class="footer-marquee">
+    <div class="marquee-track">
+      <span>★ STAY GOLD ★ NEVER GROW UP ★ THREE CHORDS AND THE TRUTH ★ POP PUNK FOREVER ★ 听不腻的副歌 ★ 永远 17 岁 ★ </span>
+      <span>★ STAY GOLD ★ NEVER GROW UP ★ THREE CHORDS AND THE TRUTH ★ POP PUNK FOREVER ★ 听不腻的副歌 ★ 永远 17 岁 ★ </span>
+    </div>
+  </div>
+  <div class="footer-content">
+    <div>© 2026 PUNK PLANET · 致敬每一支让世界更吵闹的乐队 🎸</div>
+    <div class="footer-credit">Made with ❤️ + 🍺 by 牛牛 for 康康</div>
+  </div>
+</footer>
+
+<!-- 第三方库 -->
+<script src="https://cdn.jsdelivr.net/npm/three@0.150.1/build/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/globe.gl@2.27.2/dist/globe.gl.min.js"></script>
+<!-- 数据 -->
+<script src="./data/punk_data.js"></script>
+<!-- 主逻辑 -->
+<script src="./app.js"></script>
+</body>
+</html>
