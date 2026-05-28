@@ -1,4 +1,161 @@
 {
   "schema_version": 1,
-  "countries": {}
+  "countries": {
+    "US": {
+      "tracks": {
+        "olivia rodrigo|||drop dead": {
+          "artist": "Olivia Rodrigo",
+          "title": "drop dead",
+          "first_seen_at": "2026-05-28T08:52:37+00:00",
+          "last_seen_at": "2026-05-28T08:52:37+00:00",
+          "matched_tags": [
+            "pop punk"
+          ],
+          "last_rank": 4
+        },
+        "lit|||my own worst enemy": {
+          "artist": "Lit",
+          "title": "My Own Worst Enemy",
+          "first_seen_at": "2026-05-28T08:52:37+00:00",
+          "last_seen_at": "2026-05-28T08:52:37+00:00",
+          "matched_tags": [
+            "pop punk"
+          ],
+          "last_rank": 34
+        },
+        "paramore|||all i wanted": {
+          "artist": "Paramore",
+          "title": "All I Wanted",
+          "first_seen_at": "2026-05-28T08:52:37+00:00",
+          "last_seen_at": "2026-05-28T08:52:37+00:00",
+          "matched_tags": [
+            "pop punk"
+          ],
+          "last_rank": 47
+        },
+        "paramore|||misery business": {
+          "artist": "Paramore",
+          "title": "Misery Business",
+          "first_seen_at": "2026-05-28T08:52:37+00:00",
+          "last_seen_at": "2026-05-28T08:52:37+00:00",
+          "matched_tags": [
+            "pop punk"
+          ],
+          "last_rank": 63
+        },
+        "pierce the veil|||king for a day": {
+          "artist": "Pierce the Veil",
+          "title": "King for a Day",
+          "first_seen_at": "2026-05-28T08:52:37+00:00",
+          "last_seen_at": "2026-05-28T08:52:37+00:00",
+          "matched_tags": [
+            "easycore"
+          ],
+          "last_rank": 82
+        },
+        "sublime|||santeria": {
+          "artist": "Sublime",
+          "title": "Santeria",
+          "first_seen_at": "2026-05-28T08:52:37+00:00",
+          "last_seen_at": "2026-05-28T08:52:37+00:00",
+          "matched_tags": [
+            "punk"
+          ],
+          "last_rank": 89
+        }
+      }
+    },
+    "GB": {
+      "tracks": {
+        "olivia rodrigo|||drop dead": {
+          "artist": "Olivia Rodrigo",
+          "title": "drop dead",
+          "first_seen_at": "2026-05-28T08:52:37+00:00",
+          "last_seen_at": "2026-05-28T08:52:37+00:00",
+          "matched_tags": [
+            "pop punk"
+          ],
+          "last_rank": 3
+        },
+        "wheatus|||teenage dirtbag": {
+          "artist": "Wheatus",
+          "title": "Teenage Dirtbag",
+          "first_seen_at": "2026-05-28T08:52:37+00:00",
+          "last_seen_at": "2026-05-28T08:52:37+00:00",
+          "matched_tags": [
+            "pop punk"
+          ],
+          "last_rank": 95
+        },
+        "paramore|||misery business": {
+          "artist": "Paramore",
+          "title": "Misery Business",
+          "first_seen_at": "2026-05-28T08:52:37+00:00",
+          "last_seen_at": "2026-05-28T08:52:37+00:00",
+          "matched_tags": [
+            "pop punk"
+          ],
+          "last_rank": 99
+        }
+      }
+    },
+    "JP": {
+      "tracks": {
+        "olivia rodrigo|||drop dead": {
+          "artist": "Olivia Rodrigo",
+          "title": "drop dead",
+          "first_seen_at": "2026-05-28T08:52:37+00:00",
+          "last_seen_at": "2026-05-28T08:52:37+00:00",
+          "matched_tags": [
+            "pop punk"
+          ],
+          "last_rank": 10
+        },
+        "kana-boon|||シルエット": {
+          "artist": "KANA-BOON",
+          "title": "シルエット",
+          "first_seen_at": "2026-05-28T08:52:37+00:00",
+          "last_seen_at": "2026-05-28T08:52:37+00:00",
+          "matched_tags": [
+            "pop punk"
+          ],
+          "last_rank": 56
+        }
+      }
+    },
+    "CA": {
+      "tracks": {
+        "olivia rodrigo|||drop dead": {
+          "artist": "Olivia Rodrigo",
+          "title": "drop dead",
+          "first_seen_at": "2026-05-28T08:52:37+00:00",
+          "last_seen_at": "2026-05-28T08:52:37+00:00",
+          "matched_tags": [
+            "pop punk"
+          ],
+          "last_rank": 8
+        },
+        "paramore|||all i wanted": {
+          "artist": "Paramore",
+          "title": "All I Wanted",
+          "first_seen_at": "2026-05-28T08:52:37+00:00",
+          "last_seen_at": "2026-05-28T08:52:37+00:00",
+          "matched_tags": [
+            "pop punk"
+          ],
+          "last_rank": 93
+        },
+        "lit|||my own worst enemy": {
+          "artist": "Lit",
+          "title": "My Own Worst Enemy",
+          "first_seen_at": "2026-05-28T08:52:37+00:00",
+          "last_seen_at": "2026-05-28T08:52:37+00:00",
+          "matched_tags": [
+            "pop punk"
+          ],
+          "last_rank": 95
+        }
+      }
+    }
+  }
 }
