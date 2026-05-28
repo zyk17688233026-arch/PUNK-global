@@ -70,10 +70,21 @@ PUNK_KEYWORDS = {
     "pop-punk",
     "punk pop",
     "skate punk",
-    "punk rock",
     "easycore",
     "emo pop",
-    "punk",
+    "emo",           # 用户要求保留 emo
+    "midwest emo",   # 附赠一个经典的 midwest emo
+    "neon pop punk",
+}
+
+BLACKLIST_KEYWORDS = {
+    "k-pop",
+    "hip hop",
+    "rap",
+    "indie",
+    "kpop",
+    "hip-hop",
+    "j-pop",
 }
 
 
@@ -252,16 +263,24 @@ def pick_image(track: dict) -> str:
 
 def tag_matches_punk(tags: Iterable[str]) -> List[str]:
     matched = []
+    
+    # 第一步：先检查黑名单，如果包含了黑名单标签，直接一票否决
+    for tag in tags:
+        n = normalize_text(tag)
+        if n in BLACKLIST_KEYWORDS:
+            return []  # 直接返回空，这首歌不要了
+
+    # 第二步：检查白名单，收集匹配的朋克/Emo标签
     for tag in tags:
         n = normalize_text(tag)
         if n in PUNK_KEYWORDS:
             matched.append(n)
             continue
+        # 如果标签词里同时包含 punk 和 (pop/skate/emo/easycore) 也算
         if "punk" in n and ("pop" in n or "skate" in n or "emo" in n or "easycore" in n):
             matched.append(n)
             continue
-        if n == "punk":
-            matched.append(n)
+
     deduped = []
     seen = set()
     for item in matched:

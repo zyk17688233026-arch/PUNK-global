@@ -100,12 +100,14 @@ function resizeGlobe() {
 window.addEventListener("resize", resizeGlobe);
 resizeGlobe();
 
-// 自动旋转
+// 自动旋转与拖拽手感优化
 const controls = world.controls();
 controls.autoRotate = true;
 controls.autoRotateSpeed = 0.5;
 controls.enableDamping = true;
-controls.dampingFactor = 0.08;
+controls.dampingFactor = 0.05; // 降低阻尼，让拖拽更顺滑
+controls.rotateSpeed = 0.8;    // 提高旋转灵敏度
+controls.zoomSpeed = 1.2;      // 提高缩放灵敏度
 
 // 鼠标交互时暂停自动旋转
 globeEl.addEventListener("mousedown", () => { controls.autoRotate = false; });

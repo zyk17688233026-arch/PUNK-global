@@ -12,14 +12,14 @@ const PUNK_DATA = {
         "name": "🔥 Last.fm 热门 / 新歌雷达",
         "era": "自动更新",
         "hometown": "数据源：Last.fm API",
-        "tag": "最近更新：2026-05-28T08:52:37+00:00",
+        "tag": "最近更新：2026-05-28T09:23:17+00:00",
         "songs": [
           {
             "title": "drop dead",
             "artist": "Olivia Rodrigo",
-            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "album": "Olivia Rodrigo · Single / 未知专辑 · 回归热榜 · pop punk",
             "year": "N/A",
-            "isNew": true,
+            "isNew": false,
             "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
             "firstSeenAt": "2026-05-28T08:52:37+00:00",
             "tags": [
@@ -30,9 +30,9 @@ const PUNK_DATA = {
           {
             "title": "My Own Worst Enemy",
             "artist": "Lit",
-            "album": "Lit · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "album": "Lit · Single / 未知专辑 · 回归热榜 · pop punk",
             "year": "N/A",
-            "isNew": true,
+            "isNew": false,
             "lastfmUrl": "https://www.last.fm/music/Lit/_/My+Own+Worst+Enemy",
             "firstSeenAt": "2026-05-28T08:52:37+00:00",
             "tags": [
@@ -43,9 +43,9 @@ const PUNK_DATA = {
           {
             "title": "All I Wanted",
             "artist": "Paramore",
-            "album": "Paramore · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "album": "Paramore · Single / 未知专辑 · 回归热榜 · pop punk",
             "year": "N/A",
-            "isNew": true,
+            "isNew": false,
             "lastfmUrl": "https://www.last.fm/music/Paramore/_/All+I+Wanted",
             "firstSeenAt": "2026-05-28T08:52:37+00:00",
             "tags": [
@@ -56,9 +56,9 @@ const PUNK_DATA = {
           {
             "title": "Misery Business",
             "artist": "Paramore",
-            "album": "Paramore · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "album": "Paramore · Single / 未知专辑 · 回归热榜 · pop punk",
             "year": "N/A",
-            "isNew": true,
+            "isNew": false,
             "lastfmUrl": "https://www.last.fm/music/Paramore/_/Misery+Business",
             "firstSeenAt": "2026-05-28T08:52:37+00:00",
             "tags": [
@@ -69,28 +69,15 @@ const PUNK_DATA = {
           {
             "title": "King for a Day",
             "artist": "Pierce the Veil",
-            "album": "Pierce the Veil · Single / 未知专辑 · 🆕 新上榜 · easycore",
+            "album": "Pierce the Veil · Single / 未知专辑 · 回归热榜 · easycore",
             "year": "N/A",
-            "isNew": true,
+            "isNew": false,
             "lastfmUrl": "https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day",
             "firstSeenAt": "2026-05-28T08:52:37+00:00",
             "tags": [
               "easycore"
             ],
             "rank": 82
-          },
-          {
-            "title": "Santeria",
-            "artist": "Sublime",
-            "album": "Sublime · Single / 未知专辑 · 🆕 新上榜 · punk",
-            "year": "N/A",
-            "isNew": true,
-            "lastfmUrl": "https://www.last.fm/music/Sublime/_/Santeria",
-            "firstSeenAt": "2026-05-28T08:52:37+00:00",
-            "tags": [
-              "punk"
-            ],
-            "rank": 89
           }
         ]
       },
@@ -271,14 +258,14 @@ const PUNK_DATA = {
         "name": "🔥 Last.fm 热门 / 新歌雷达",
         "era": "自动更新",
         "hometown": "数据源：Last.fm API",
-        "tag": "最近更新：2026-05-28T08:52:37+00:00",
+        "tag": "最近更新：2026-05-28T09:23:17+00:00",
         "songs": [
           {
             "title": "drop dead",
             "artist": "Olivia Rodrigo",
-            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "album": "Olivia Rodrigo · Single / 未知专辑 · 回归热榜 · pop punk",
             "year": "N/A",
-            "isNew": true,
+            "isNew": false,
             "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
             "firstSeenAt": "2026-05-28T08:52:37+00:00",
             "tags": [
@@ -289,9 +276,9 @@ const PUNK_DATA = {
           {
             "title": "All I Wanted",
             "artist": "Paramore",
-            "album": "Paramore · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "album": "Paramore · Single / 未知专辑 · 回归热榜 · pop punk",
             "year": "N/A",
-            "isNew": true,
+            "isNew": false,
             "lastfmUrl": "https://www.last.fm/music/Paramore/_/All+I+Wanted",
             "firstSeenAt": "2026-05-28T08:52:37+00:00",
             "tags": [
@@ -302,9 +289,9 @@ const PUNK_DATA = {
           {
             "title": "My Own Worst Enemy",
             "artist": "Lit",
-            "album": "Lit · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "album": "Lit · Single / 未知专辑 · 回归热榜 · pop punk",
             "year": "N/A",
-            "isNew": true,
+            "isNew": false,
             "lastfmUrl": "https://www.last.fm/music/Lit/_/My+Own+Worst+Enemy",
             "firstSeenAt": "2026-05-28T08:52:37+00:00",
             "tags": [
@@ -409,14 +396,14 @@ const PUNK_DATA = {
         "name": "🔥 Last.fm 热门 / 新歌雷达",
         "era": "自动更新",
         "hometown": "数据源：Last.fm API",
-        "tag": "最近更新：2026-05-28T08:52:37+00:00",
+        "tag": "最近更新：2026-05-28T09:23:17+00:00",
         "songs": [
           {
             "title": "drop dead",
             "artist": "Olivia Rodrigo",
-            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "album": "Olivia Rodrigo · Single / 未知专辑 · 回归热榜 · pop punk",
             "year": "N/A",
-            "isNew": true,
+            "isNew": false,
             "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
             "firstSeenAt": "2026-05-28T08:52:37+00:00",
             "tags": [
@@ -427,9 +414,9 @@ const PUNK_DATA = {
           {
             "title": "Teenage Dirtbag",
             "artist": "Wheatus",
-            "album": "Wheatus · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "album": "Wheatus · Single / 未知专辑 · 回归热榜 · pop punk",
             "year": "N/A",
-            "isNew": true,
+            "isNew": false,
             "lastfmUrl": "https://www.last.fm/music/Wheatus/_/Teenage+Dirtbag",
             "firstSeenAt": "2026-05-28T08:52:37+00:00",
             "tags": [
@@ -440,9 +427,9 @@ const PUNK_DATA = {
           {
             "title": "Misery Business",
             "artist": "Paramore",
-            "album": "Paramore · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "album": "Paramore · Single / 未知专辑 · 回归热榜 · pop punk",
             "year": "N/A",
-            "isNew": true,
+            "isNew": false,
             "lastfmUrl": "https://www.last.fm/music/Paramore/_/Misery+Business",
             "firstSeenAt": "2026-05-28T08:52:37+00:00",
             "tags": [
@@ -623,33 +610,20 @@ const PUNK_DATA = {
         "name": "🔥 Last.fm 热门 / 新歌雷达",
         "era": "自动更新",
         "hometown": "数据源：Last.fm API",
-        "tag": "最近更新：2026-05-28T08:52:37+00:00",
+        "tag": "最近更新：2026-05-28T09:23:17+00:00",
         "songs": [
           {
             "title": "drop dead",
             "artist": "Olivia Rodrigo",
-            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "album": "Olivia Rodrigo · Single / 未知专辑 · 回归热榜 · pop punk",
             "year": "N/A",
-            "isNew": true,
+            "isNew": false,
             "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
             "firstSeenAt": "2026-05-28T08:52:37+00:00",
             "tags": [
               "pop punk"
             ],
             "rank": 10
-          },
-          {
-            "title": "シルエット",
-            "artist": "KANA-BOON",
-            "album": "KANA-BOON · Single / 未知专辑 · 🆕 新上榜 · pop punk",
-            "year": "N/A",
-            "isNew": true,
-            "lastfmUrl": "https://www.last.fm/music/KANA-BOON/_/%E3%82%B7%E3%83%AB%E3%82%A8%E3%83%83%E3%83%88",
-            "firstSeenAt": "2026-05-28T08:52:37+00:00",
-            "tags": [
-              "pop punk"
-            ],
-            "rank": 56
           }
         ]
       },
