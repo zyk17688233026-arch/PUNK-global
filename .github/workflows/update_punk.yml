@@ -25,7 +25,7 @@ jobs:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
         # 抓取全球范围内流朋文化比较发达/有代表性的十几个国家
         run: |
-          python3 scripts/update_punk_data.py --countries "US,GB,JP,CA,AU,DE,BR,FR,MX,SE,IT,ES,AR,PH,ID,RU,KR,FI,NL,NZ"
+          python3 scripts/update_punk_data.py --countries "US,GB,JP,CA,AU,DE,BR,FR,MX,SE,IT,AR,PH,ID,RU,KR"
         
       - name: Commit and Push changes
         run: |
