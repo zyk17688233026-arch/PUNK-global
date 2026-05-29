@@ -7,7 +7,7 @@
           "artist": "Olivia Rodrigo",
           "title": "drop dead",
           "first_seen_at": "2026-05-28T08:52:37+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
+          "last_seen_at": "2026-05-28T09:23:17+00:00",
           "matched_tags": [
             "pop punk"
           ],
@@ -17,41 +17,41 @@
           "artist": "Lit",
           "title": "My Own Worst Enemy",
           "first_seen_at": "2026-05-28T08:52:37+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
+          "last_seen_at": "2026-05-28T09:23:17+00:00",
           "matched_tags": [
             "pop punk"
           ],
-          "last_rank": 36
+          "last_rank": 34
         },
         "paramore|||all i wanted": {
           "artist": "Paramore",
           "title": "All I Wanted",
           "first_seen_at": "2026-05-28T08:52:37+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
+          "last_seen_at": "2026-05-28T09:23:17+00:00",
           "matched_tags": [
             "pop punk"
           ],
-          "last_rank": 45
+          "last_rank": 47
         },
         "paramore|||misery business": {
           "artist": "Paramore",
           "title": "Misery Business",
           "first_seen_at": "2026-05-28T08:52:37+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
+          "last_seen_at": "2026-05-28T09:23:17+00:00",
           "matched_tags": [
             "pop punk"
           ],
-          "last_rank": 62
+          "last_rank": 63
         },
         "pierce the veil|||king for a day": {
           "artist": "Pierce the Veil",
           "title": "King for a Day",
           "first_seen_at": "2026-05-28T08:52:37+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
+          "last_seen_at": "2026-05-28T09:23:17+00:00",
           "matched_tags": [
             "easycore"
           ],
-          "last_rank": 78
+          "last_rank": 82
         },
         "sublime|||santeria": {
           "artist": "Sublime",
@@ -62,6 +62,62 @@
             "punk"
           ],
           "last_rank": 89
+        },
+        "ariana grande|||hate that i made you love me": {
+          "artist": "Ariana Grande",
+          "title": "hate that i made you love me",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 1
+        },
+        "olivia rodrigo|||the cure": {
+          "artist": "Olivia Rodrigo",
+          "title": "the cure",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 2
+        },
+        "charli xcx|||ss26": {
+          "artist": "Charli xcx",
+          "title": "SS26",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 3
+        },
+        "drake|||ran to atlanta": {
+          "artist": "Drake",
+          "title": "Ran To Atlanta",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 4
+        },
+        "shakira|||dai dai": {
+          "artist": "Shakira",
+          "title": "Dai Dai",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 5
+        },
+        "gracie abrams|||hit the wall": {
+          "artist": "Gracie Abrams",
+          "title": "Hit the Wall",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 6
+        },
+        "the strokes|||falling out of love": {
+          "artist": "The Strokes",
+          "title": "Falling out of Love",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 7
+        },
+        "blood orange|||essex_honey.mp3": {
+          "artist": "Blood Orange",
+          "title": "Essex_Honey.mp3",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 8
         }
       }
     },
@@ -71,7 +127,7 @@
           "artist": "Olivia Rodrigo",
           "title": "drop dead",
           "first_seen_at": "2026-05-28T08:52:37+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
+          "last_seen_at": "2026-05-28T09:23:17+00:00",
           "matched_tags": [
             "pop punk"
           ],
@@ -81,21 +137,77 @@
           "artist": "Wheatus",
           "title": "Teenage Dirtbag",
           "first_seen_at": "2026-05-28T08:52:37+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
+          "last_seen_at": "2026-05-28T09:23:17+00:00",
           "matched_tags": [
             "pop punk"
           ],
-          "last_rank": 90
+          "last_rank": 95
         },
         "paramore|||misery business": {
           "artist": "Paramore",
           "title": "Misery Business",
           "first_seen_at": "2026-05-28T08:52:37+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
+          "last_seen_at": "2026-05-28T09:23:17+00:00",
           "matched_tags": [
             "pop punk"
           ],
-          "last_rank": 100
+          "last_rank": 99
+        },
+        "ariana grande|||hate that i made you love me": {
+          "artist": "Ariana Grande",
+          "title": "hate that i made you love me",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 1
+        },
+        "olivia rodrigo|||the cure": {
+          "artist": "Olivia Rodrigo",
+          "title": "the cure",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 2
+        },
+        "charli xcx|||ss26": {
+          "artist": "Charli xcx",
+          "title": "SS26",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 3
+        },
+        "drake|||ran to atlanta": {
+          "artist": "Drake",
+          "title": "Ran To Atlanta",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 4
+        },
+        "shakira|||dai dai": {
+          "artist": "Shakira",
+          "title": "Dai Dai",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 5
+        },
+        "gracie abrams|||hit the wall": {
+          "artist": "Gracie Abrams",
+          "title": "Hit the Wall",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 6
+        },
+        "the strokes|||falling out of love": {
+          "artist": "The Strokes",
+          "title": "Falling out of Love",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 7
+        },
+        "blood orange|||essex_honey.mp3": {
+          "artist": "Blood Orange",
+          "title": "Essex_Honey.mp3",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 8
         }
       }
     },
@@ -105,7 +217,7 @@
           "artist": "Olivia Rodrigo",
           "title": "drop dead",
           "first_seen_at": "2026-05-28T08:52:37+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
+          "last_seen_at": "2026-05-28T09:23:17+00:00",
           "matched_tags": [
             "pop punk"
           ],
@@ -120,6 +232,62 @@
             "pop punk"
           ],
           "last_rank": 56
+        },
+        "vaundy|||気まぐれ": {
+          "artist": "Vaundy",
+          "title": "気まぐれ",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 1
+        },
+        "なとり|||ポルターガイスト": {
+          "artist": "なとり",
+          "title": "ポルターガイスト",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 2
+        },
+        "luna sea|||forever": {
+          "artist": "LUNA SEA",
+          "title": "FOREVER",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 3
+        },
+        "花譜|||エコーノイズ": {
+          "artist": "花譜",
+          "title": "エコーノイズ",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 4
+        },
+        "a.b.c-z|||tap": {
+          "artist": "A.B.C-Z",
+          "title": "TAP",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 5
+        },
+        "snow man|||save your heart": {
+          "artist": "Snow Man",
+          "title": "SAVE YOUR HEART",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 6
+        },
+        "コレサワ|||ずっと1番にしてね": {
+          "artist": "コレサワ",
+          "title": "ずっと1番にしてね",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 7
+        },
+        "五十嵐ハル|||ラヴノイズ": {
+          "artist": "五十嵐ハル",
+          "title": "ラヴノイズ",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 8
         }
       }
     },
@@ -129,259 +297,867 @@
           "artist": "Olivia Rodrigo",
           "title": "drop dead",
           "first_seen_at": "2026-05-28T08:52:37+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
+          "last_seen_at": "2026-05-28T09:23:17+00:00",
           "matched_tags": [
             "pop punk"
           ],
-          "last_rank": 6
+          "last_rank": 8
         },
         "paramore|||all i wanted": {
           "artist": "Paramore",
           "title": "All I Wanted",
           "first_seen_at": "2026-05-28T08:52:37+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
+          "last_seen_at": "2026-05-28T09:23:17+00:00",
           "matched_tags": [
             "pop punk"
           ],
-          "last_rank": 91
+          "last_rank": 93
         },
         "lit|||my own worst enemy": {
           "artist": "Lit",
           "title": "My Own Worst Enemy",
           "first_seen_at": "2026-05-28T08:52:37+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
+          "last_seen_at": "2026-05-28T09:23:17+00:00",
           "matched_tags": [
             "pop punk"
           ],
-          "last_rank": 92
+          "last_rank": 95
+        },
+        "ariana grande|||hate that i made you love me": {
+          "artist": "Ariana Grande",
+          "title": "hate that i made you love me",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 1
+        },
+        "olivia rodrigo|||the cure": {
+          "artist": "Olivia Rodrigo",
+          "title": "the cure",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 2
+        },
+        "charli xcx|||ss26": {
+          "artist": "Charli xcx",
+          "title": "SS26",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 3
+        },
+        "drake|||ran to atlanta": {
+          "artist": "Drake",
+          "title": "Ran To Atlanta",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 4
+        },
+        "shakira|||dai dai": {
+          "artist": "Shakira",
+          "title": "Dai Dai",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 5
+        },
+        "gracie abrams|||hit the wall": {
+          "artist": "Gracie Abrams",
+          "title": "Hit the Wall",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 6
+        },
+        "the strokes|||falling out of love": {
+          "artist": "The Strokes",
+          "title": "Falling out of Love",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 7
+        },
+        "blood orange|||essex_honey.mp3": {
+          "artist": "Blood Orange",
+          "title": "Essex_Honey.mp3",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 8
         }
       }
     },
     "AU": {
       "tracks": {
-        "olivia rodrigo|||drop dead": {
+        "ariana grande|||hate that i made you love me": {
+          "artist": "Ariana Grande",
+          "title": "hate that i made you love me",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 1
+        },
+        "olivia rodrigo|||the cure": {
           "artist": "Olivia Rodrigo",
-          "title": "drop dead",
-          "first_seen_at": "2026-05-29T07:21:39+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
-          "matched_tags": [
-            "pop punk"
-          ],
+          "title": "the cure",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 2
+        },
+        "charli xcx|||ss26": {
+          "artist": "Charli xcx",
+          "title": "SS26",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 3
+        },
+        "drake|||ran to atlanta": {
+          "artist": "Drake",
+          "title": "Ran To Atlanta",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
           "last_rank": 4
         },
-        "paramore|||all i wanted": {
-          "artist": "Paramore",
-          "title": "All I Wanted",
-          "first_seen_at": "2026-05-29T07:21:39+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
-          "matched_tags": [
-            "pop punk"
-          ],
-          "last_rank": 76
+        "shakira|||dai dai": {
+          "artist": "Shakira",
+          "title": "Dai Dai",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 5
+        },
+        "gracie abrams|||hit the wall": {
+          "artist": "Gracie Abrams",
+          "title": "Hit the Wall",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 6
+        },
+        "the strokes|||falling out of love": {
+          "artist": "The Strokes",
+          "title": "Falling out of Love",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 7
+        },
+        "blood orange|||essex_honey.mp3": {
+          "artist": "Blood Orange",
+          "title": "Essex_Honey.mp3",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 8
         }
       }
     },
     "DE": {
       "tracks": {
-        "olivia rodrigo|||drop dead": {
-          "artist": "Olivia Rodrigo",
-          "title": "drop dead",
-          "first_seen_at": "2026-05-29T07:21:39+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
-          "matched_tags": [
-            "pop punk"
-          ],
-          "last_rank": 11
+        "ariana grande|||hate that i made you love me": {
+          "artist": "Ariana Grande",
+          "title": "hate that i made you love me",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 1
         },
-        "green day|||boulevard of broken dreams": {
-          "artist": "Green Day",
-          "title": "Boulevard of Broken Dreams",
-          "first_seen_at": "2026-05-29T07:21:39+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
-          "matched_tags": [
-            "pop punk"
-          ],
-          "last_rank": 29
-        },
-        "wheatus|||teenage dirtbag": {
-          "artist": "Wheatus",
-          "title": "Teenage Dirtbag",
-          "first_seen_at": "2026-05-29T07:21:39+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
-          "matched_tags": [
-            "pop punk"
-          ],
-          "last_rank": 52
-        }
-      }
-    },
-    "BR": {
-      "tracks": {
-        "olivia rodrigo|||drop dead": {
+        "olivia rodrigo|||the cure": {
           "artist": "Olivia Rodrigo",
-          "title": "drop dead",
-          "first_seen_at": "2026-05-29T07:21:39+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
-          "matched_tags": [
-            "pop punk"
-          ],
+          "title": "the cure",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 2
+        },
+        "charli xcx|||ss26": {
+          "artist": "Charli xcx",
+          "title": "SS26",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
           "last_rank": 3
         },
-        "paramore|||all i wanted": {
-          "artist": "Paramore",
-          "title": "All I Wanted",
-          "first_seen_at": "2026-05-29T07:21:39+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
-          "matched_tags": [
-            "pop punk"
-          ],
-          "last_rank": 93
-        }
-      }
-    },
-    "FR": {
-      "tracks": {
-        "olivia rodrigo|||drop dead": {
-          "artist": "Olivia Rodrigo",
-          "title": "drop dead",
-          "first_seen_at": "2026-05-29T07:21:39+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
-          "matched_tags": [
-            "pop punk"
-          ],
-          "last_rank": 11
+        "drake|||ran to atlanta": {
+          "artist": "Drake",
+          "title": "Ran To Atlanta",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 4
+        },
+        "shakira|||dai dai": {
+          "artist": "Shakira",
+          "title": "Dai Dai",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 5
+        },
+        "gracie abrams|||hit the wall": {
+          "artist": "Gracie Abrams",
+          "title": "Hit the Wall",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 6
+        },
+        "the strokes|||falling out of love": {
+          "artist": "The Strokes",
+          "title": "Falling out of Love",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 7
+        },
+        "blood orange|||essex_honey.mp3": {
+          "artist": "Blood Orange",
+          "title": "Essex_Honey.mp3",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 8
         }
       }
     },
     "MX": {
       "tracks": {
-        "olivia rodrigo|||drop dead": {
-          "artist": "Olivia Rodrigo",
-          "title": "drop dead",
-          "first_seen_at": "2026-05-29T07:21:39+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
-          "matched_tags": [
-            "pop punk"
-          ],
-          "last_rank": 60
-        }
-      }
-    },
-    "SE": {
-      "tracks": {
-        "olivia rodrigo|||drop dead": {
-          "artist": "Olivia Rodrigo",
-          "title": "drop dead",
-          "first_seen_at": "2026-05-29T07:21:39+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
-          "matched_tags": [
-            "pop punk"
-          ],
-          "last_rank": 13
-        }
-      }
-    },
-    "IT": {
-      "tracks": {
-        "olivia rodrigo|||drop dead": {
-          "artist": "Olivia Rodrigo",
-          "title": "drop dead",
-          "first_seen_at": "2026-05-29T07:21:39+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
-          "matched_tags": [
-            "pop punk"
-          ],
-          "last_rank": 15
-        }
-      }
-    },
-    "AR": {
-      "tracks": {
-        "olivia rodrigo|||drop dead": {
-          "artist": "Olivia Rodrigo",
-          "title": "drop dead",
-          "first_seen_at": "2026-05-29T07:21:39+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
-          "matched_tags": [
-            "pop punk"
-          ],
-          "last_rank": 15
-        }
-      }
-    },
-    "PH": {
-      "tracks": {
-        "olivia rodrigo|||drop dead": {
-          "artist": "Olivia Rodrigo",
-          "title": "drop dead",
-          "first_seen_at": "2026-05-29T07:21:39+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
-          "matched_tags": [
-            "pop punk"
-          ],
+        "うこぼね|||sleeping like a log": {
+          "artist": "うこぼね",
+          "title": "Sleeping like a log",
+          "first_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 1
+        },
+        "savannah sgro|||night shift": {
+          "artist": "Savannah Sgro",
+          "title": "Night Shift",
+          "first_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 2
+        },
+        "jocelyn 9.4.0|||sweet sweet boy": {
+          "artist": "Jocelyn 9.4.0",
+          "title": "Sweet Sweet Boy",
+          "first_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 3
+        },
+        "latto|||business & personal (intro)": {
+          "artist": "Latto",
+          "title": "Business & Personal (Intro)",
+          "first_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 4
+        },
+        "cittan*|||いつまでも": {
+          "artist": "cittan*",
+          "title": "いつまでも",
+          "first_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
           "last_rank": 5
         },
-        "green day|||last night on earth": {
-          "artist": "Green Day",
-          "title": "Last Night on Earth",
-          "first_seen_at": "2026-05-29T07:21:39+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
-          "matched_tags": [
-            "pop punk"
-          ],
-          "last_rank": 78
-        }
-      }
-    },
-    "ID": {
-      "tracks": {
-        "olivia rodrigo|||drop dead": {
-          "artist": "Olivia Rodrigo",
-          "title": "drop dead",
-          "first_seen_at": "2026-05-29T07:21:39+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
-          "matched_tags": [
-            "pop punk"
-          ],
-          "last_rank": 15
+        "小林未郁|||encore（无尽夏）": {
+          "artist": "小林未郁",
+          "title": "Encore（无尽夏）",
+          "first_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 6
         },
-        "green day|||last night on earth": {
-          "artist": "Green Day",
-          "title": "Last Night on Earth",
-          "first_seen_at": "2026-05-29T07:21:39+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
-          "matched_tags": [
-            "pop punk"
-          ],
-          "last_rank": 94
+        "宫阁|||天上地下": {
+          "artist": "宫阁",
+          "title": "天上地下",
+          "first_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 7
+        },
+        "doudou|||小小的眼泪": {
+          "artist": "DOUDOU",
+          "title": "小小的眼泪",
+          "first_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 8
         }
       }
     },
-    "RU": {
+    "BR": {
       "tracks": {
-        "olivia rodrigo|||drop dead": {
-          "artist": "Olivia Rodrigo",
-          "title": "drop dead",
-          "first_seen_at": "2026-05-29T07:21:39+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
-          "matched_tags": [
-            "pop punk"
-          ],
+        "うこぼね|||sleeping like a log": {
+          "artist": "うこぼね",
+          "title": "Sleeping like a log",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 1
+        },
+        "savannah sgro|||night shift": {
+          "artist": "Savannah Sgro",
+          "title": "Night Shift",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 2
+        },
+        "jocelyn 9.4.0|||sweet sweet boy": {
+          "artist": "Jocelyn 9.4.0",
+          "title": "Sweet Sweet Boy",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 3
+        },
+        "latto|||business & personal (intro)": {
+          "artist": "Latto",
+          "title": "Business & Personal (Intro)",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 4
+        },
+        "cittan*|||いつまでも": {
+          "artist": "cittan*",
+          "title": "いつまでも",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
           "last_rank": 5
+        },
+        "小林未郁|||encore（无尽夏）": {
+          "artist": "小林未郁",
+          "title": "Encore（无尽夏）",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 6
+        },
+        "宫阁|||天上地下": {
+          "artist": "宫阁",
+          "title": "天上地下",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 7
+        },
+        "doudou|||小小的眼泪": {
+          "artist": "DOUDOU",
+          "title": "小小的眼泪",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 8
+        }
+      }
+    },
+    "CN": {
+      "tracks": {
+        "任素汐|||张仙语三": {
+          "artist": "任素汐",
+          "title": "张仙语三",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 1
+        },
+        "林家谦|||大亨": {
+          "artist": "林家谦",
+          "title": "大亨",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 2
+        },
+        "黄丽玲|||幸福在歌唱": {
+          "artist": "黄丽玲",
+          "title": "幸福在歌唱",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 3
+        },
+        "任素汐|||本末": {
+          "artist": "任素汐",
+          "title": "本末",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 4
+        },
+        "王铮亮|||任我": {
+          "artist": "王铮亮",
+          "title": "任我",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 5
+        },
+        "黄霄雲|||年少心动雨季": {
+          "artist": "黄霄雲",
+          "title": "年少心动雨季",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 6
+        },
+        "陈卓璇|||想": {
+          "artist": "陈卓璇",
+          "title": "想",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 7
+        },
+        "刘鹏鹏|||月引": {
+          "artist": "刘鹏鹏",
+          "title": "月引",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 8
         }
       }
     },
     "KR": {
       "tracks": {
-        "olivia rodrigo|||drop dead": {
+        "maji|||out of view": {
+          "artist": "maji",
+          "title": "Out of view",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 1
+        },
+        "김결|||햇빛": {
+          "artist": "김결",
+          "title": "햇빛",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 2
+        },
+        "hynn (박혜원)|||주인공 연습": {
+          "artist": "HYNN (박혜원)",
+          "title": "주인공 연습",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 3
+        },
+        "珍荣|||and now": {
+          "artist": "珍荣",
+          "title": "And Now",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 4
+        },
+        "具源灿|||렘수면 (feat. g0nny)": {
+          "artist": "具源灿",
+          "title": "렘수면 (Feat. g0nny)",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 5
+        },
+        "란 (ran)|||넌 모르지": {
+          "artist": "란 (RAN)",
+          "title": "넌 모르지",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 6
+        },
+        "luci gang|||우비소녀": {
+          "artist": "Luci Gang",
+          "title": "우비소녀",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 7
+        },
+        "nineorzero|||나영의 꿈": {
+          "artist": "nineorzero",
+          "title": "나영의 꿈",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 8
+        }
+      }
+    },
+    "SE": {
+      "tracks": {
+        "ariana grande|||hate that i made you love me": {
+          "artist": "Ariana Grande",
+          "title": "hate that i made you love me",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 1
+        },
+        "olivia rodrigo|||the cure": {
           "artist": "Olivia Rodrigo",
-          "title": "drop dead",
-          "first_seen_at": "2026-05-29T07:21:39+00:00",
-          "last_seen_at": "2026-05-29T07:21:39+00:00",
-          "matched_tags": [
-            "pop punk"
-          ],
-          "last_rank": 17
+          "title": "the cure",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 2
+        },
+        "charli xcx|||ss26": {
+          "artist": "Charli xcx",
+          "title": "SS26",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 3
+        },
+        "drake|||ran to atlanta": {
+          "artist": "Drake",
+          "title": "Ran To Atlanta",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 4
+        },
+        "shakira|||dai dai": {
+          "artist": "Shakira",
+          "title": "Dai Dai",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 5
+        },
+        "gracie abrams|||hit the wall": {
+          "artist": "Gracie Abrams",
+          "title": "Hit the Wall",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 6
+        },
+        "the strokes|||falling out of love": {
+          "artist": "The Strokes",
+          "title": "Falling out of Love",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 7
+        },
+        "blood orange|||essex_honey.mp3": {
+          "artist": "Blood Orange",
+          "title": "Essex_Honey.mp3",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 8
+        }
+      }
+    },
+    "FR": {
+      "tracks": {
+        "ariana grande|||hate that i made you love me": {
+          "artist": "Ariana Grande",
+          "title": "hate that i made you love me",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 1
+        },
+        "olivia rodrigo|||the cure": {
+          "artist": "Olivia Rodrigo",
+          "title": "the cure",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 2
+        },
+        "charli xcx|||ss26": {
+          "artist": "Charli xcx",
+          "title": "SS26",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 3
+        },
+        "drake|||ran to atlanta": {
+          "artist": "Drake",
+          "title": "Ran To Atlanta",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 4
+        },
+        "shakira|||dai dai": {
+          "artist": "Shakira",
+          "title": "Dai Dai",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 5
+        },
+        "gracie abrams|||hit the wall": {
+          "artist": "Gracie Abrams",
+          "title": "Hit the Wall",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 6
+        },
+        "the strokes|||falling out of love": {
+          "artist": "The Strokes",
+          "title": "Falling out of Love",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 7
+        },
+        "blood orange|||essex_honey.mp3": {
+          "artist": "Blood Orange",
+          "title": "Essex_Honey.mp3",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 8
+        }
+      }
+    },
+    "AR": {
+      "tracks": {
+        "うこぼね|||sleeping like a log": {
+          "artist": "うこぼね",
+          "title": "Sleeping like a log",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 1
+        },
+        "savannah sgro|||night shift": {
+          "artist": "Savannah Sgro",
+          "title": "Night Shift",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 2
+        },
+        "jocelyn 9.4.0|||sweet sweet boy": {
+          "artist": "Jocelyn 9.4.0",
+          "title": "Sweet Sweet Boy",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 3
+        },
+        "latto|||business & personal (intro)": {
+          "artist": "Latto",
+          "title": "Business & Personal (Intro)",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 4
+        },
+        "cittan*|||いつまでも": {
+          "artist": "cittan*",
+          "title": "いつまでも",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 5
+        },
+        "小林未郁|||encore（无尽夏）": {
+          "artist": "小林未郁",
+          "title": "Encore（无尽夏）",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 6
+        },
+        "宫阁|||天上地下": {
+          "artist": "宫阁",
+          "title": "天上地下",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 7
+        },
+        "doudou|||小小的眼泪": {
+          "artist": "DOUDOU",
+          "title": "小小的眼泪",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 8
+        }
+      }
+    },
+    "PH": {
+      "tracks": {
+        "うこぼね|||sleeping like a log": {
+          "artist": "うこぼね",
+          "title": "Sleeping like a log",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 1
+        },
+        "savannah sgro|||night shift": {
+          "artist": "Savannah Sgro",
+          "title": "Night Shift",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 2
+        },
+        "jocelyn 9.4.0|||sweet sweet boy": {
+          "artist": "Jocelyn 9.4.0",
+          "title": "Sweet Sweet Boy",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 3
+        },
+        "latto|||business & personal (intro)": {
+          "artist": "Latto",
+          "title": "Business & Personal (Intro)",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 4
+        },
+        "cittan*|||いつまでも": {
+          "artist": "cittan*",
+          "title": "いつまでも",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 5
+        },
+        "小林未郁|||encore（无尽夏）": {
+          "artist": "小林未郁",
+          "title": "Encore（无尽夏）",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 6
+        },
+        "宫阁|||天上地下": {
+          "artist": "宫阁",
+          "title": "天上地下",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 7
+        },
+        "doudou|||小小的眼泪": {
+          "artist": "DOUDOU",
+          "title": "小小的眼泪",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 8
+        }
+      }
+    },
+    "ID": {
+      "tracks": {
+        "うこぼね|||sleeping like a log": {
+          "artist": "うこぼね",
+          "title": "Sleeping like a log",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 1
+        },
+        "savannah sgro|||night shift": {
+          "artist": "Savannah Sgro",
+          "title": "Night Shift",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 2
+        },
+        "jocelyn 9.4.0|||sweet sweet boy": {
+          "artist": "Jocelyn 9.4.0",
+          "title": "Sweet Sweet Boy",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 3
+        },
+        "latto|||business & personal (intro)": {
+          "artist": "Latto",
+          "title": "Business & Personal (Intro)",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 4
+        },
+        "cittan*|||いつまでも": {
+          "artist": "cittan*",
+          "title": "いつまでも",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 5
+        },
+        "小林未郁|||encore（无尽夏）": {
+          "artist": "小林未郁",
+          "title": "Encore（无尽夏）",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 6
+        },
+        "宫阁|||天上地下": {
+          "artist": "宫阁",
+          "title": "天上地下",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 7
+        },
+        "doudou|||小小的眼泪": {
+          "artist": "DOUDOU",
+          "title": "小小的眼泪",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 8
+        }
+      }
+    },
+    "IT": {
+      "tracks": {
+        "ariana grande|||hate that i made you love me": {
+          "artist": "Ariana Grande",
+          "title": "hate that i made you love me",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 1
+        },
+        "olivia rodrigo|||the cure": {
+          "artist": "Olivia Rodrigo",
+          "title": "the cure",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 2
+        },
+        "charli xcx|||ss26": {
+          "artist": "Charli xcx",
+          "title": "SS26",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 3
+        },
+        "drake|||ran to atlanta": {
+          "artist": "Drake",
+          "title": "Ran To Atlanta",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 4
+        },
+        "shakira|||dai dai": {
+          "artist": "Shakira",
+          "title": "Dai Dai",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 5
+        },
+        "gracie abrams|||hit the wall": {
+          "artist": "Gracie Abrams",
+          "title": "Hit the Wall",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 6
+        },
+        "the strokes|||falling out of love": {
+          "artist": "The Strokes",
+          "title": "Falling out of Love",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 7
+        },
+        "blood orange|||essex_honey.mp3": {
+          "artist": "Blood Orange",
+          "title": "Essex_Honey.mp3",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 8
+        }
+      }
+    },
+    "RU": {
+      "tracks": {
+        "うこぼね|||sleeping like a log": {
+          "artist": "うこぼね",
+          "title": "Sleeping like a log",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 1
+        },
+        "savannah sgro|||night shift": {
+          "artist": "Savannah Sgro",
+          "title": "Night Shift",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 2
+        },
+        "jocelyn 9.4.0|||sweet sweet boy": {
+          "artist": "Jocelyn 9.4.0",
+          "title": "Sweet Sweet Boy",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 3
+        },
+        "latto|||business & personal (intro)": {
+          "artist": "Latto",
+          "title": "Business & Personal (Intro)",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 4
+        },
+        "cittan*|||いつまでも": {
+          "artist": "cittan*",
+          "title": "いつまでも",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 5
+        },
+        "小林未郁|||encore（无尽夏）": {
+          "artist": "小林未郁",
+          "title": "Encore（无尽夏）",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 6
+        },
+        "宫阁|||天上地下": {
+          "artist": "宫阁",
+          "title": "天上地下",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 7
+        },
+        "doudou|||小小的眼泪": {
+          "artist": "DOUDOU",
+          "title": "小小的眼泪",
+          "first_seen_at": "2026-05-29T08:19:06+00:00",
+          "last_seen_at": "2026-05-29T08:22:47+00:00",
+          "last_rank": 8
         }
       }
     }

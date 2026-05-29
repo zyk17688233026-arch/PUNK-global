@@ -9,10 +9,106 @@ const PUNK_DATA = {
     "scene": "流行朋克的诞生地与最大产地，加州 Berkeley/SoCal 是核心阵地",
     "bands": [
       {
+        "name": "🔥 网易云新歌雷达",
+        "era": "自动更新",
+        "hometown": "数据源：网易云音乐 API",
+        "tag": "最近更新：2026-05-29T08:22:47+00:00",
+        "songs": [
+          {
+            "title": "hate that i made you love me",
+            "artist": "Ariana Grande",
+            "album": "Ariana Grande · hate that i made you love me · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3387362820",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 1
+          },
+          {
+            "title": "the cure",
+            "artist": "Olivia Rodrigo",
+            "album": "Olivia Rodrigo · the cure · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3384746574",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 2
+          },
+          {
+            "title": "SS26",
+            "artist": "Charli xcx",
+            "album": "Charli xcx · SS26 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3384581017",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 3
+          },
+          {
+            "title": "Ran To Atlanta",
+            "artist": "Drake",
+            "album": "Drake · ICEMAN · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3382153690",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 4
+          },
+          {
+            "title": "Dai Dai",
+            "artist": "Shakira",
+            "album": "Shakira · Dai Dai · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3381729685",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 5
+          },
+          {
+            "title": "Hit the Wall",
+            "artist": "Gracie Abrams",
+            "album": "Gracie Abrams · Hit the Wall · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3382115200",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 6
+          },
+          {
+            "title": "Falling out of Love",
+            "artist": "The Strokes",
+            "album": "The Strokes · Falling out of Love · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3380816396",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 7
+          },
+          {
+            "title": "Essex_Honey.mp3",
+            "artist": "Blood Orange",
+            "album": "Blood Orange · Essex_Honey.mp3 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3383918980",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 8
+          }
+        ]
+      },
+      {
         "name": "🔥 Last.fm 热门 / 新歌雷达",
         "era": "自动更新",
         "hometown": "数据源：Last.fm API",
-        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "tag": "最近更新：2026-05-28T09:23:17+00:00",
         "songs": [
           {
             "title": "drop dead",
@@ -38,7 +134,7 @@ const PUNK_DATA = {
             "tags": [
               "pop punk"
             ],
-            "rank": 36
+            "rank": 34
           },
           {
             "title": "All I Wanted",
@@ -51,7 +147,7 @@ const PUNK_DATA = {
             "tags": [
               "pop punk"
             ],
-            "rank": 45
+            "rank": 47
           },
           {
             "title": "Misery Business",
@@ -64,7 +160,7 @@ const PUNK_DATA = {
             "tags": [
               "pop punk"
             ],
-            "rank": 62
+            "rank": 63
           },
           {
             "title": "King for a Day",
@@ -77,7 +173,7 @@ const PUNK_DATA = {
             "tags": [
               "easycore"
             ],
-            "rank": 78
+            "rank": 82
           }
         ]
       },
@@ -255,10 +351,106 @@ const PUNK_DATA = {
     "scene": "Sum 41、Avril Lavigne 等北方朋克力量，旋律抓耳",
     "bands": [
       {
+        "name": "🔥 网易云新歌雷达",
+        "era": "自动更新",
+        "hometown": "数据源：网易云音乐 API",
+        "tag": "最近更新：2026-05-29T08:22:47+00:00",
+        "songs": [
+          {
+            "title": "hate that i made you love me",
+            "artist": "Ariana Grande",
+            "album": "Ariana Grande · hate that i made you love me · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3387362820",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 1
+          },
+          {
+            "title": "the cure",
+            "artist": "Olivia Rodrigo",
+            "album": "Olivia Rodrigo · the cure · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3384746574",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 2
+          },
+          {
+            "title": "SS26",
+            "artist": "Charli xcx",
+            "album": "Charli xcx · SS26 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3384581017",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 3
+          },
+          {
+            "title": "Ran To Atlanta",
+            "artist": "Drake",
+            "album": "Drake · ICEMAN · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3382153690",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 4
+          },
+          {
+            "title": "Dai Dai",
+            "artist": "Shakira",
+            "album": "Shakira · Dai Dai · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3381729685",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 5
+          },
+          {
+            "title": "Hit the Wall",
+            "artist": "Gracie Abrams",
+            "album": "Gracie Abrams · Hit the Wall · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3382115200",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 6
+          },
+          {
+            "title": "Falling out of Love",
+            "artist": "The Strokes",
+            "album": "The Strokes · Falling out of Love · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3380816396",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 7
+          },
+          {
+            "title": "Essex_Honey.mp3",
+            "artist": "Blood Orange",
+            "album": "Blood Orange · Essex_Honey.mp3 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3383918980",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 8
+          }
+        ]
+      },
+      {
         "name": "🔥 Last.fm 热门 / 新歌雷达",
         "era": "自动更新",
         "hometown": "数据源：Last.fm API",
-        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "tag": "最近更新：2026-05-28T09:23:17+00:00",
         "songs": [
           {
             "title": "drop dead",
@@ -271,7 +463,7 @@ const PUNK_DATA = {
             "tags": [
               "pop punk"
             ],
-            "rank": 6
+            "rank": 8
           },
           {
             "title": "All I Wanted",
@@ -284,7 +476,7 @@ const PUNK_DATA = {
             "tags": [
               "pop punk"
             ],
-            "rank": 91
+            "rank": 93
           },
           {
             "title": "My Own Worst Enemy",
@@ -297,7 +489,7 @@ const PUNK_DATA = {
             "tags": [
               "pop punk"
             ],
-            "rank": 92
+            "rank": 95
           }
         ]
       },
@@ -393,10 +585,106 @@ const PUNK_DATA = {
     "scene": "朋克鼻祖之地，70 年代孕育 Punk Rock，后衍生流行朋克分支",
     "bands": [
       {
+        "name": "🔥 网易云新歌雷达",
+        "era": "自动更新",
+        "hometown": "数据源：网易云音乐 API",
+        "tag": "最近更新：2026-05-29T08:22:47+00:00",
+        "songs": [
+          {
+            "title": "hate that i made you love me",
+            "artist": "Ariana Grande",
+            "album": "Ariana Grande · hate that i made you love me · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3387362820",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 1
+          },
+          {
+            "title": "the cure",
+            "artist": "Olivia Rodrigo",
+            "album": "Olivia Rodrigo · the cure · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3384746574",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 2
+          },
+          {
+            "title": "SS26",
+            "artist": "Charli xcx",
+            "album": "Charli xcx · SS26 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3384581017",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 3
+          },
+          {
+            "title": "Ran To Atlanta",
+            "artist": "Drake",
+            "album": "Drake · ICEMAN · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3382153690",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 4
+          },
+          {
+            "title": "Dai Dai",
+            "artist": "Shakira",
+            "album": "Shakira · Dai Dai · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3381729685",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 5
+          },
+          {
+            "title": "Hit the Wall",
+            "artist": "Gracie Abrams",
+            "album": "Gracie Abrams · Hit the Wall · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3382115200",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 6
+          },
+          {
+            "title": "Falling out of Love",
+            "artist": "The Strokes",
+            "album": "The Strokes · Falling out of Love · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3380816396",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 7
+          },
+          {
+            "title": "Essex_Honey.mp3",
+            "artist": "Blood Orange",
+            "album": "Blood Orange · Essex_Honey.mp3 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3383918980",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 8
+          }
+        ]
+      },
+      {
         "name": "🔥 Last.fm 热门 / 新歌雷达",
         "era": "自动更新",
         "hometown": "数据源：Last.fm API",
-        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "tag": "最近更新：2026-05-28T09:23:17+00:00",
         "songs": [
           {
             "title": "drop dead",
@@ -422,7 +710,7 @@ const PUNK_DATA = {
             "tags": [
               "pop punk"
             ],
-            "rank": 90
+            "rank": 95
           },
           {
             "title": "Misery Business",
@@ -435,7 +723,7 @@ const PUNK_DATA = {
             "tags": [
               "pop punk"
             ],
-            "rank": 100
+            "rank": 99
           }
         ]
       },
@@ -539,36 +827,98 @@ const PUNK_DATA = {
     "scene": "南半球朋克大本营，The Amity Affliction、5SOS 享誉全球",
     "bands": [
       {
-        "name": "🔥 Last.fm 热门 / 新歌雷达",
+        "name": "🔥 网易云新歌雷达",
         "era": "自动更新",
-        "hometown": "数据源：Last.fm API",
-        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "hometown": "数据源：网易云音乐 API",
+        "tag": "最近更新：2026-05-29T08:22:47+00:00",
         "songs": [
           {
-            "title": "drop dead",
+            "title": "hate that i made you love me",
+            "artist": "Ariana Grande",
+            "album": "Ariana Grande · hate that i made you love me · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3387362820",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 1
+          },
+          {
+            "title": "the cure",
             "artist": "Olivia Rodrigo",
-            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
-            "year": "N/A",
-            "isNew": true,
-            "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
-            "firstSeenAt": "2026-05-29T07:21:39+00:00",
-            "tags": [
-              "pop punk"
-            ],
+            "album": "Olivia Rodrigo · the cure · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3384746574",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 2
+          },
+          {
+            "title": "SS26",
+            "artist": "Charli xcx",
+            "album": "Charli xcx · SS26 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3384581017",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 3
+          },
+          {
+            "title": "Ran To Atlanta",
+            "artist": "Drake",
+            "album": "Drake · ICEMAN · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3382153690",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
             "rank": 4
           },
           {
-            "title": "All I Wanted",
-            "artist": "Paramore",
-            "album": "Paramore · Single / 未知专辑 · 🆕 新上榜 · pop punk",
-            "year": "N/A",
-            "isNew": true,
-            "lastfmUrl": "https://www.last.fm/music/Paramore/_/All+I+Wanted",
-            "firstSeenAt": "2026-05-29T07:21:39+00:00",
-            "tags": [
-              "pop punk"
-            ],
-            "rank": 76
+            "title": "Dai Dai",
+            "artist": "Shakira",
+            "album": "Shakira · Dai Dai · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3381729685",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 5
+          },
+          {
+            "title": "Hit the Wall",
+            "artist": "Gracie Abrams",
+            "album": "Gracie Abrams · Hit the Wall · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3382115200",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 6
+          },
+          {
+            "title": "Falling out of Love",
+            "artist": "The Strokes",
+            "album": "The Strokes · Falling out of Love · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3380816396",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 7
+          },
+          {
+            "title": "Essex_Honey.mp3",
+            "artist": "Blood Orange",
+            "album": "Blood Orange · Essex_Honey.mp3 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3383918980",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 8
           }
         ]
       },
@@ -641,10 +991,106 @@ const PUNK_DATA = {
     "scene": "亚洲流行朋克最强阵地，旋律核与青春朋克并存",
     "bands": [
       {
+        "name": "🔥 网易云新歌雷达",
+        "era": "自动更新",
+        "hometown": "数据源：网易云音乐 API",
+        "tag": "最近更新：2026-05-29T08:22:47+00:00",
+        "songs": [
+          {
+            "title": "気まぐれ",
+            "artist": "Vaundy",
+            "album": "Vaundy · 気まぐれ · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3383977349",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 1
+          },
+          {
+            "title": "ポルターガイスト",
+            "artist": "なとり",
+            "album": "なとり · ポルターガイスト · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3382180348",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 2
+          },
+          {
+            "title": "FOREVER",
+            "artist": "LUNA SEA",
+            "album": "LUNA SEA · FOREVER · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3384788243",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 3
+          },
+          {
+            "title": "エコーノイズ",
+            "artist": "花譜",
+            "album": "花譜 · 深愛 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3383669224",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 4
+          },
+          {
+            "title": "TAP",
+            "artist": "A.B.C-Z",
+            "album": "A.B.C-Z · TAP · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3379134789",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 5
+          },
+          {
+            "title": "SAVE YOUR HEART",
+            "artist": "Snow Man",
+            "album": "Snow Man · SAVE YOUR HEART · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3382222194",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 6
+          },
+          {
+            "title": "ずっと1番にしてね",
+            "artist": "コレサワ",
+            "album": "コレサワ · ずっと1番にしてね · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3374199199",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 7
+          },
+          {
+            "title": "ラヴノイズ",
+            "artist": "五十嵐ハル",
+            "album": "五十嵐ハル · ラヴノイズ · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3374200132",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 8
+          }
+        ]
+      },
+      {
         "name": "🔥 Last.fm 热门 / 新歌雷达",
         "era": "自动更新",
         "hometown": "数据源：Last.fm API",
-        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "tag": "最近更新：2026-05-28T09:23:17+00:00",
         "songs": [
           {
             "title": "drop dead",
@@ -743,49 +1189,98 @@ const PUNK_DATA = {
     "scene": "Deutschpunk 与流行朋克交融，Die Ärzte 是国宝级存在",
     "bands": [
       {
-        "name": "🔥 Last.fm 热门 / 新歌雷达",
+        "name": "🔥 网易云新歌雷达",
         "era": "自动更新",
-        "hometown": "数据源：Last.fm API",
-        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "hometown": "数据源：网易云音乐 API",
+        "tag": "最近更新：2026-05-29T08:22:47+00:00",
         "songs": [
           {
-            "title": "drop dead",
+            "title": "hate that i made you love me",
+            "artist": "Ariana Grande",
+            "album": "Ariana Grande · hate that i made you love me · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3387362820",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 1
+          },
+          {
+            "title": "the cure",
             "artist": "Olivia Rodrigo",
-            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
-            "year": "N/A",
-            "isNew": true,
-            "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
-            "firstSeenAt": "2026-05-29T07:21:39+00:00",
-            "tags": [
-              "pop punk"
-            ],
-            "rank": 11
+            "album": "Olivia Rodrigo · the cure · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3384746574",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 2
           },
           {
-            "title": "Boulevard of Broken Dreams",
-            "artist": "Green Day",
-            "album": "Green Day · Single / 未知专辑 · 🆕 新上榜 · pop punk",
-            "year": "N/A",
-            "isNew": true,
-            "lastfmUrl": "https://www.last.fm/music/Green+Day/_/Boulevard+of+Broken+Dreams",
-            "firstSeenAt": "2026-05-29T07:21:39+00:00",
-            "tags": [
-              "pop punk"
-            ],
-            "rank": 29
+            "title": "SS26",
+            "artist": "Charli xcx",
+            "album": "Charli xcx · SS26 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3384581017",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 3
           },
           {
-            "title": "Teenage Dirtbag",
-            "artist": "Wheatus",
-            "album": "Wheatus · Single / 未知专辑 · 🆕 新上榜 · pop punk",
-            "year": "N/A",
-            "isNew": true,
-            "lastfmUrl": "https://www.last.fm/music/Wheatus/_/Teenage+Dirtbag",
-            "firstSeenAt": "2026-05-29T07:21:39+00:00",
-            "tags": [
-              "pop punk"
-            ],
-            "rank": 52
+            "title": "Ran To Atlanta",
+            "artist": "Drake",
+            "album": "Drake · ICEMAN · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3382153690",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 4
+          },
+          {
+            "title": "Dai Dai",
+            "artist": "Shakira",
+            "album": "Shakira · Dai Dai · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3381729685",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 5
+          },
+          {
+            "title": "Hit the Wall",
+            "artist": "Gracie Abrams",
+            "album": "Gracie Abrams · Hit the Wall · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3382115200",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 6
+          },
+          {
+            "title": "Falling out of Love",
+            "artist": "The Strokes",
+            "album": "The Strokes · Falling out of Love · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3380816396",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 7
+          },
+          {
+            "title": "Essex_Honey.mp3",
+            "artist": "Blood Orange",
+            "album": "Blood Orange · Essex_Honey.mp3 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3383918980",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 8
           }
         ]
       },
@@ -848,23 +1343,98 @@ const PUNK_DATA = {
     "scene": "拉美最大朋克市场，西语流行朋克活力四射",
     "bands": [
       {
-        "name": "🔥 Last.fm 热门 / 新歌雷达",
+        "name": "🔥 网易云新歌雷达",
         "era": "自动更新",
-        "hometown": "数据源：Last.fm API",
-        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "hometown": "数据源：网易云音乐 API",
+        "tag": "最近更新：2026-05-29T08:22:47+00:00",
         "songs": [
           {
-            "title": "drop dead",
-            "artist": "Olivia Rodrigo",
-            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
-            "year": "N/A",
+            "title": "Sleeping like a log",
+            "artist": "うこぼね",
+            "album": "うこぼね · TOHO BOSSA NOVA 15 · 🆕 新上榜",
+            "year": "2026",
             "isNew": true,
-            "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
-            "firstSeenAt": "2026-05-29T07:21:39+00:00",
-            "tags": [
-              "pop punk"
-            ],
-            "rank": 60
+            "lastfmUrl": "https://music.163.com/#/song?id=3383651626",
+            "firstSeenAt": "2026-05-29T08:22:47+00:00",
+            "tags": [],
+            "rank": 1
+          },
+          {
+            "title": "Night Shift",
+            "artist": "Savannah Sgro",
+            "album": "Savannah Sgro · Night Shift  · 🆕 新上榜",
+            "year": "2026",
+            "isNew": true,
+            "lastfmUrl": "https://music.163.com/#/song?id=3369103163",
+            "firstSeenAt": "2026-05-29T08:22:47+00:00",
+            "tags": [],
+            "rank": 2
+          },
+          {
+            "title": "Sweet Sweet Boy",
+            "artist": "Jocelyn 9.4.0",
+            "album": "Jocelyn 9.4.0 · Sweet Spot · 🆕 新上榜",
+            "year": "2026",
+            "isNew": true,
+            "lastfmUrl": "https://music.163.com/#/song?id=2740896034",
+            "firstSeenAt": "2026-05-29T08:22:47+00:00",
+            "tags": [],
+            "rank": 3
+          },
+          {
+            "title": "Business & Personal (Intro)",
+            "artist": "Latto",
+            "album": "Latto · Business & Personal (Intro) · 🆕 新上榜",
+            "year": "2026",
+            "isNew": true,
+            "lastfmUrl": "https://music.163.com/#/song?id=3361198330",
+            "firstSeenAt": "2026-05-29T08:22:47+00:00",
+            "tags": [],
+            "rank": 4
+          },
+          {
+            "title": "いつまでも",
+            "artist": "cittan*",
+            "album": "cittan* · カタネガイ 音楽集 · 🆕 新上榜",
+            "year": "2026",
+            "isNew": true,
+            "lastfmUrl": "https://music.163.com/#/song?id=3341351711",
+            "firstSeenAt": "2026-05-29T08:22:47+00:00",
+            "tags": [],
+            "rank": 5
+          },
+          {
+            "title": "Encore（无尽夏）",
+            "artist": "小林未郁",
+            "album": "小林未郁 · 神遗落的乐章 · 🆕 新上榜",
+            "year": "2025",
+            "isNew": true,
+            "lastfmUrl": "https://music.163.com/#/song?id=3314684938",
+            "firstSeenAt": "2026-05-29T08:22:47+00:00",
+            "tags": [],
+            "rank": 6
+          },
+          {
+            "title": "天上地下",
+            "artist": "宫阁",
+            "album": "宫阁 · 3030 · 🆕 新上榜",
+            "year": "2025",
+            "isNew": true,
+            "lastfmUrl": "https://music.163.com/#/song?id=2735604166",
+            "firstSeenAt": "2026-05-29T08:22:47+00:00",
+            "tags": [],
+            "rank": 7
+          },
+          {
+            "title": "小小的眼泪",
+            "artist": "DOUDOU",
+            "album": "DOUDOU · 织·音 · 🆕 新上榜",
+            "year": "2025",
+            "isNew": true,
+            "lastfmUrl": "https://music.163.com/#/song?id=3312282300",
+            "firstSeenAt": "2026-05-29T08:22:47+00:00",
+            "tags": [],
+            "rank": 8
           }
         ]
       },
@@ -914,36 +1484,98 @@ const PUNK_DATA = {
     "scene": "南美朋克之都，CPM 22、NX Zero 撑起一片天",
     "bands": [
       {
-        "name": "🔥 Last.fm 热门 / 新歌雷达",
+        "name": "🔥 网易云新歌雷达",
         "era": "自动更新",
-        "hometown": "数据源：Last.fm API",
-        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "hometown": "数据源：网易云音乐 API",
+        "tag": "最近更新：2026-05-29T08:22:47+00:00",
         "songs": [
           {
-            "title": "drop dead",
-            "artist": "Olivia Rodrigo",
-            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
-            "year": "N/A",
-            "isNew": true,
-            "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
-            "firstSeenAt": "2026-05-29T07:21:39+00:00",
-            "tags": [
-              "pop punk"
-            ],
+            "title": "Sleeping like a log",
+            "artist": "うこぼね",
+            "album": "うこぼね · TOHO BOSSA NOVA 15 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3383651626",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 1
+          },
+          {
+            "title": "Night Shift",
+            "artist": "Savannah Sgro",
+            "album": "Savannah Sgro · Night Shift  · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3369103163",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 2
+          },
+          {
+            "title": "Sweet Sweet Boy",
+            "artist": "Jocelyn 9.4.0",
+            "album": "Jocelyn 9.4.0 · Sweet Spot · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=2740896034",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
             "rank": 3
           },
           {
-            "title": "All I Wanted",
-            "artist": "Paramore",
-            "album": "Paramore · Single / 未知专辑 · 🆕 新上榜 · pop punk",
-            "year": "N/A",
-            "isNew": true,
-            "lastfmUrl": "https://www.last.fm/music/Paramore/_/All+I+Wanted",
-            "firstSeenAt": "2026-05-29T07:21:39+00:00",
-            "tags": [
-              "pop punk"
-            ],
-            "rank": 93
+            "title": "Business & Personal (Intro)",
+            "artist": "Latto",
+            "album": "Latto · Business & Personal (Intro) · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3361198330",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 4
+          },
+          {
+            "title": "いつまでも",
+            "artist": "cittan*",
+            "album": "cittan* · カタネガイ 音楽集 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3341351711",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 5
+          },
+          {
+            "title": "Encore（无尽夏）",
+            "artist": "小林未郁",
+            "album": "小林未郁 · 神遗落的乐章 · 回归热榜",
+            "year": "2025",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3314684938",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 6
+          },
+          {
+            "title": "天上地下",
+            "artist": "宫阁",
+            "album": "宫阁 · 3030 · 回归热榜",
+            "year": "2025",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=2735604166",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 7
+          },
+          {
+            "title": "小小的眼泪",
+            "artist": "DOUDOU",
+            "album": "DOUDOU · 织·音 · 回归热榜",
+            "year": "2025",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3312282300",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 8
           }
         ]
       },
@@ -992,6 +1624,102 @@ const PUNK_DATA = {
     "lng": 104.1954,
     "scene": "新声代崛起，Click#15、新裤子等带来本土朋克脉搏",
     "bands": [
+      {
+        "name": "🔥 网易云新歌雷达",
+        "era": "自动更新",
+        "hometown": "数据源：网易云音乐 API",
+        "tag": "最近更新：2026-05-29T08:22:47+00:00",
+        "songs": [
+          {
+            "title": "张仙语三",
+            "artist": "任素汐",
+            "album": "任素汐 · 浮尘几章 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3384359415",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 1
+          },
+          {
+            "title": "大亨",
+            "artist": "林家谦",
+            "album": "林家谦 · Five Easy Pieces · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3386574125",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 2
+          },
+          {
+            "title": "幸福在歌唱",
+            "artist": "黄丽玲",
+            "album": "黄丽玲 · 《阳光女子合唱团》电影原声带 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3384454072",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 3
+          },
+          {
+            "title": "本末",
+            "artist": "任素汐",
+            "album": "任素汐 · 浮尘几章 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3384359414",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 4
+          },
+          {
+            "title": "任我",
+            "artist": "王铮亮",
+            "album": "王铮亮 · 无恙 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3383371376",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 5
+          },
+          {
+            "title": "年少心动雨季",
+            "artist": "黄霄雲",
+            "album": "黄霄雲 · 年少心动雨季 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3382281789",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 6
+          },
+          {
+            "title": "想",
+            "artist": "陈卓璇",
+            "album": "陈卓璇 · 当·拾 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3383312576",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 7
+          },
+          {
+            "title": "月引",
+            "artist": "刘鹏鹏",
+            "album": "刘鹏鹏 · 月引 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3385823869",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 8
+          }
+        ]
+      },
       {
         "name": "新裤子 New Pants",
         "era": "1996 至今",
@@ -1064,23 +1792,98 @@ const PUNK_DATA = {
     "scene": "Hongdae（弘大）独立场景孕育不少地下朋克力量",
     "bands": [
       {
-        "name": "🔥 Last.fm 热门 / 新歌雷达",
+        "name": "🔥 网易云新歌雷达",
         "era": "自动更新",
-        "hometown": "数据源：Last.fm API",
-        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "hometown": "数据源：网易云音乐 API",
+        "tag": "最近更新：2026-05-29T08:22:47+00:00",
         "songs": [
           {
-            "title": "drop dead",
-            "artist": "Olivia Rodrigo",
-            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
-            "year": "N/A",
-            "isNew": true,
-            "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
-            "firstSeenAt": "2026-05-29T07:21:39+00:00",
-            "tags": [
-              "pop punk"
-            ],
-            "rank": 17
+            "title": "Out of view",
+            "artist": "maji",
+            "album": "maji · Out of view · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3375566332",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 1
+          },
+          {
+            "title": "햇빛",
+            "artist": "김결",
+            "album": "김결 · 스근한 발라드 ep.5 햇빛 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3378006368",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 2
+          },
+          {
+            "title": "주인공 연습",
+            "artist": "HYNN (박혜원)",
+            "album": "HYNN (박혜원) · 주인공 연습 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3379186278",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 3
+          },
+          {
+            "title": "And Now",
+            "artist": "珍荣",
+            "album": "珍荣 · Said & Done · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3378049647",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 4
+          },
+          {
+            "title": "렘수면 (Feat. g0nny)",
+            "artist": "具源灿",
+            "album": "具源灿 · 렘수면 (Feat. g0nny) · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3378746683",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 5
+          },
+          {
+            "title": "넌 모르지",
+            "artist": "란 (RAN)",
+            "album": "란 (RAN) · 넌 모르지 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3382132165",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 6
+          },
+          {
+            "title": "우비소녀",
+            "artist": "Luci Gang",
+            "album": "Luci Gang · 우비소녀 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3382220100",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 7
+          },
+          {
+            "title": "나영의 꿈",
+            "artist": "nineorzero",
+            "album": "nineorzero · 9N9N0 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3386222088",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 8
           }
         ]
       },
@@ -1133,23 +1936,98 @@ const PUNK_DATA = {
     "scene": "北欧朋克重镇，Millencolin 享誉全球",
     "bands": [
       {
-        "name": "🔥 Last.fm 热门 / 新歌雷达",
+        "name": "🔥 网易云新歌雷达",
         "era": "自动更新",
-        "hometown": "数据源：Last.fm API",
-        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "hometown": "数据源：网易云音乐 API",
+        "tag": "最近更新：2026-05-29T08:22:47+00:00",
         "songs": [
           {
-            "title": "drop dead",
+            "title": "hate that i made you love me",
+            "artist": "Ariana Grande",
+            "album": "Ariana Grande · hate that i made you love me · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3387362820",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 1
+          },
+          {
+            "title": "the cure",
             "artist": "Olivia Rodrigo",
-            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
-            "year": "N/A",
-            "isNew": true,
-            "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
-            "firstSeenAt": "2026-05-29T07:21:39+00:00",
-            "tags": [
-              "pop punk"
-            ],
-            "rank": 13
+            "album": "Olivia Rodrigo · the cure · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3384746574",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 2
+          },
+          {
+            "title": "SS26",
+            "artist": "Charli xcx",
+            "album": "Charli xcx · SS26 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3384581017",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 3
+          },
+          {
+            "title": "Ran To Atlanta",
+            "artist": "Drake",
+            "album": "Drake · ICEMAN · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3382153690",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 4
+          },
+          {
+            "title": "Dai Dai",
+            "artist": "Shakira",
+            "album": "Shakira · Dai Dai · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3381729685",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 5
+          },
+          {
+            "title": "Hit the Wall",
+            "artist": "Gracie Abrams",
+            "album": "Gracie Abrams · Hit the Wall · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3382115200",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 6
+          },
+          {
+            "title": "Falling out of Love",
+            "artist": "The Strokes",
+            "album": "The Strokes · Falling out of Love · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3380816396",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 7
+          },
+          {
+            "title": "Essex_Honey.mp3",
+            "artist": "Blood Orange",
+            "album": "Blood Orange · Essex_Honey.mp3 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3383918980",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 8
           }
         ]
       },
@@ -1199,23 +2077,98 @@ const PUNK_DATA = {
     "scene": "法语朋克别有韵味，Pleymo、Burning Heads 引领",
     "bands": [
       {
-        "name": "🔥 Last.fm 热门 / 新歌雷达",
+        "name": "🔥 网易云新歌雷达",
         "era": "自动更新",
-        "hometown": "数据源：Last.fm API",
-        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "hometown": "数据源：网易云音乐 API",
+        "tag": "最近更新：2026-05-29T08:22:47+00:00",
         "songs": [
           {
-            "title": "drop dead",
+            "title": "hate that i made you love me",
+            "artist": "Ariana Grande",
+            "album": "Ariana Grande · hate that i made you love me · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3387362820",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 1
+          },
+          {
+            "title": "the cure",
             "artist": "Olivia Rodrigo",
-            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
-            "year": "N/A",
-            "isNew": true,
-            "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
-            "firstSeenAt": "2026-05-29T07:21:39+00:00",
-            "tags": [
-              "pop punk"
-            ],
-            "rank": 11
+            "album": "Olivia Rodrigo · the cure · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3384746574",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 2
+          },
+          {
+            "title": "SS26",
+            "artist": "Charli xcx",
+            "album": "Charli xcx · SS26 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3384581017",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 3
+          },
+          {
+            "title": "Ran To Atlanta",
+            "artist": "Drake",
+            "album": "Drake · ICEMAN · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3382153690",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 4
+          },
+          {
+            "title": "Dai Dai",
+            "artist": "Shakira",
+            "album": "Shakira · Dai Dai · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3381729685",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 5
+          },
+          {
+            "title": "Hit the Wall",
+            "artist": "Gracie Abrams",
+            "album": "Gracie Abrams · Hit the Wall · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3382115200",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 6
+          },
+          {
+            "title": "Falling out of Love",
+            "artist": "The Strokes",
+            "album": "The Strokes · Falling out of Love · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3380816396",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 7
+          },
+          {
+            "title": "Essex_Honey.mp3",
+            "artist": "Blood Orange",
+            "album": "Blood Orange · Essex_Honey.mp3 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3383918980",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 8
           }
         ]
       },
@@ -1255,23 +2208,98 @@ const PUNK_DATA = {
     "scene": "南美朋克热土，Attaque 77 等乐队享誉拉美",
     "bands": [
       {
-        "name": "🔥 Last.fm 热门 / 新歌雷达",
+        "name": "🔥 网易云新歌雷达",
         "era": "自动更新",
-        "hometown": "数据源：Last.fm API",
-        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "hometown": "数据源：网易云音乐 API",
+        "tag": "最近更新：2026-05-29T08:22:47+00:00",
         "songs": [
           {
-            "title": "drop dead",
-            "artist": "Olivia Rodrigo",
-            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
-            "year": "N/A",
-            "isNew": true,
-            "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
-            "firstSeenAt": "2026-05-29T07:21:39+00:00",
-            "tags": [
-              "pop punk"
-            ],
-            "rank": 15
+            "title": "Sleeping like a log",
+            "artist": "うこぼね",
+            "album": "うこぼね · TOHO BOSSA NOVA 15 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3383651626",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 1
+          },
+          {
+            "title": "Night Shift",
+            "artist": "Savannah Sgro",
+            "album": "Savannah Sgro · Night Shift  · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3369103163",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 2
+          },
+          {
+            "title": "Sweet Sweet Boy",
+            "artist": "Jocelyn 9.4.0",
+            "album": "Jocelyn 9.4.0 · Sweet Spot · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=2740896034",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 3
+          },
+          {
+            "title": "Business & Personal (Intro)",
+            "artist": "Latto",
+            "album": "Latto · Business & Personal (Intro) · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3361198330",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 4
+          },
+          {
+            "title": "いつまでも",
+            "artist": "cittan*",
+            "album": "cittan* · カタネガイ 音楽集 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3341351711",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 5
+          },
+          {
+            "title": "Encore（无尽夏）",
+            "artist": "小林未郁",
+            "album": "小林未郁 · 神遗落的乐章 · 回归热榜",
+            "year": "2025",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3314684938",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 6
+          },
+          {
+            "title": "天上地下",
+            "artist": "宫阁",
+            "album": "宫阁 · 3030 · 回归热榜",
+            "year": "2025",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=2735604166",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 7
+          },
+          {
+            "title": "小小的眼泪",
+            "artist": "DOUDOU",
+            "album": "DOUDOU · 织·音 · 回归热榜",
+            "year": "2025",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3312282300",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 8
           }
         ]
       },
@@ -1316,36 +2344,98 @@ const PUNK_DATA = {
     "scene": "东南亚朋克新势力，Chicosci、Urbandub 风头正劲",
     "bands": [
       {
-        "name": "🔥 Last.fm 热门 / 新歌雷达",
+        "name": "🔥 网易云新歌雷达",
         "era": "自动更新",
-        "hometown": "数据源：Last.fm API",
-        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "hometown": "数据源：网易云音乐 API",
+        "tag": "最近更新：2026-05-29T08:22:47+00:00",
         "songs": [
           {
-            "title": "drop dead",
-            "artist": "Olivia Rodrigo",
-            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
-            "year": "N/A",
-            "isNew": true,
-            "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
-            "firstSeenAt": "2026-05-29T07:21:39+00:00",
-            "tags": [
-              "pop punk"
-            ],
+            "title": "Sleeping like a log",
+            "artist": "うこぼね",
+            "album": "うこぼね · TOHO BOSSA NOVA 15 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3383651626",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 1
+          },
+          {
+            "title": "Night Shift",
+            "artist": "Savannah Sgro",
+            "album": "Savannah Sgro · Night Shift  · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3369103163",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 2
+          },
+          {
+            "title": "Sweet Sweet Boy",
+            "artist": "Jocelyn 9.4.0",
+            "album": "Jocelyn 9.4.0 · Sweet Spot · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=2740896034",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 3
+          },
+          {
+            "title": "Business & Personal (Intro)",
+            "artist": "Latto",
+            "album": "Latto · Business & Personal (Intro) · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3361198330",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 4
+          },
+          {
+            "title": "いつまでも",
+            "artist": "cittan*",
+            "album": "cittan* · カタネガイ 音楽集 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3341351711",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
             "rank": 5
           },
           {
-            "title": "Last Night on Earth",
-            "artist": "Green Day",
-            "album": "Green Day · Single / 未知专辑 · 🆕 新上榜 · pop punk",
-            "year": "N/A",
-            "isNew": true,
-            "lastfmUrl": "https://www.last.fm/music/Green+Day/_/Last+Night+on+Earth",
-            "firstSeenAt": "2026-05-29T07:21:39+00:00",
-            "tags": [
-              "pop punk"
-            ],
-            "rank": 78
+            "title": "Encore（无尽夏）",
+            "artist": "小林未郁",
+            "album": "小林未郁 · 神遗落的乐章 · 回归热榜",
+            "year": "2025",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3314684938",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 6
+          },
+          {
+            "title": "天上地下",
+            "artist": "宫阁",
+            "album": "宫阁 · 3030 · 回归热榜",
+            "year": "2025",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=2735604166",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 7
+          },
+          {
+            "title": "小小的眼泪",
+            "artist": "DOUDOU",
+            "album": "DOUDOU · 织·音 · 回归热榜",
+            "year": "2025",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3312282300",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 8
           }
         ]
       },
@@ -1385,36 +2475,98 @@ const PUNK_DATA = {
     "scene": "Superman Is Dead 等让南洋朋克响彻东南亚",
     "bands": [
       {
-        "name": "🔥 Last.fm 热门 / 新歌雷达",
+        "name": "🔥 网易云新歌雷达",
         "era": "自动更新",
-        "hometown": "数据源：Last.fm API",
-        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "hometown": "数据源：网易云音乐 API",
+        "tag": "最近更新：2026-05-29T08:22:47+00:00",
         "songs": [
           {
-            "title": "drop dead",
-            "artist": "Olivia Rodrigo",
-            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
-            "year": "N/A",
-            "isNew": true,
-            "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
-            "firstSeenAt": "2026-05-29T07:21:39+00:00",
-            "tags": [
-              "pop punk"
-            ],
-            "rank": 15
+            "title": "Sleeping like a log",
+            "artist": "うこぼね",
+            "album": "うこぼね · TOHO BOSSA NOVA 15 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3383651626",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 1
           },
           {
-            "title": "Last Night on Earth",
-            "artist": "Green Day",
-            "album": "Green Day · Single / 未知专辑 · 🆕 新上榜 · pop punk",
-            "year": "N/A",
-            "isNew": true,
-            "lastfmUrl": "https://www.last.fm/music/Green+Day/_/Last+Night+on+Earth",
-            "firstSeenAt": "2026-05-29T07:21:39+00:00",
-            "tags": [
-              "pop punk"
-            ],
-            "rank": 94
+            "title": "Night Shift",
+            "artist": "Savannah Sgro",
+            "album": "Savannah Sgro · Night Shift  · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3369103163",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 2
+          },
+          {
+            "title": "Sweet Sweet Boy",
+            "artist": "Jocelyn 9.4.0",
+            "album": "Jocelyn 9.4.0 · Sweet Spot · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=2740896034",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 3
+          },
+          {
+            "title": "Business & Personal (Intro)",
+            "artist": "Latto",
+            "album": "Latto · Business & Personal (Intro) · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3361198330",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 4
+          },
+          {
+            "title": "いつまでも",
+            "artist": "cittan*",
+            "album": "cittan* · カタネガイ 音楽集 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3341351711",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 5
+          },
+          {
+            "title": "Encore（无尽夏）",
+            "artist": "小林未郁",
+            "album": "小林未郁 · 神遗落的乐章 · 回归热榜",
+            "year": "2025",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3314684938",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 6
+          },
+          {
+            "title": "天上地下",
+            "artist": "宫阁",
+            "album": "宫阁 · 3030 · 回归热榜",
+            "year": "2025",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=2735604166",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 7
+          },
+          {
+            "title": "小小的眼泪",
+            "artist": "DOUDOU",
+            "album": "DOUDOU · 织·音 · 回归热榜",
+            "year": "2025",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3312282300",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 8
           }
         ]
       },
@@ -1459,23 +2611,98 @@ const PUNK_DATA = {
     "scene": "Punkreas、Vanilla Sky 等带来意式朋克热情",
     "bands": [
       {
-        "name": "🔥 Last.fm 热门 / 新歌雷达",
+        "name": "🔥 网易云新歌雷达",
         "era": "自动更新",
-        "hometown": "数据源：Last.fm API",
-        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "hometown": "数据源：网易云音乐 API",
+        "tag": "最近更新：2026-05-29T08:22:47+00:00",
         "songs": [
           {
-            "title": "drop dead",
+            "title": "hate that i made you love me",
+            "artist": "Ariana Grande",
+            "album": "Ariana Grande · hate that i made you love me · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3387362820",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 1
+          },
+          {
+            "title": "the cure",
             "artist": "Olivia Rodrigo",
-            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
-            "year": "N/A",
-            "isNew": true,
-            "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
-            "firstSeenAt": "2026-05-29T07:21:39+00:00",
-            "tags": [
-              "pop punk"
-            ],
-            "rank": 15
+            "album": "Olivia Rodrigo · the cure · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3384746574",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 2
+          },
+          {
+            "title": "SS26",
+            "artist": "Charli xcx",
+            "album": "Charli xcx · SS26 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3384581017",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 3
+          },
+          {
+            "title": "Ran To Atlanta",
+            "artist": "Drake",
+            "album": "Drake · ICEMAN · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3382153690",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 4
+          },
+          {
+            "title": "Dai Dai",
+            "artist": "Shakira",
+            "album": "Shakira · Dai Dai · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3381729685",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 5
+          },
+          {
+            "title": "Hit the Wall",
+            "artist": "Gracie Abrams",
+            "album": "Gracie Abrams · Hit the Wall · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3382115200",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 6
+          },
+          {
+            "title": "Falling out of Love",
+            "artist": "The Strokes",
+            "album": "The Strokes · Falling out of Love · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3380816396",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 7
+          },
+          {
+            "title": "Essex_Honey.mp3",
+            "artist": "Blood Orange",
+            "album": "Blood Orange · Essex_Honey.mp3 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3383918980",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 8
           }
         ]
       },
@@ -1507,23 +2734,98 @@ const PUNK_DATA = {
     "scene": "Korol i Shut、Tarakany! 等俄式朋克独具风格",
     "bands": [
       {
-        "name": "🔥 Last.fm 热门 / 新歌雷达",
+        "name": "🔥 网易云新歌雷达",
         "era": "自动更新",
-        "hometown": "数据源：Last.fm API",
-        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "hometown": "数据源：网易云音乐 API",
+        "tag": "最近更新：2026-05-29T08:22:47+00:00",
         "songs": [
           {
-            "title": "drop dead",
-            "artist": "Olivia Rodrigo",
-            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
-            "year": "N/A",
-            "isNew": true,
-            "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
-            "firstSeenAt": "2026-05-29T07:21:39+00:00",
-            "tags": [
-              "pop punk"
-            ],
+            "title": "Sleeping like a log",
+            "artist": "うこぼね",
+            "album": "うこぼね · TOHO BOSSA NOVA 15 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3383651626",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 1
+          },
+          {
+            "title": "Night Shift",
+            "artist": "Savannah Sgro",
+            "album": "Savannah Sgro · Night Shift  · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3369103163",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 2
+          },
+          {
+            "title": "Sweet Sweet Boy",
+            "artist": "Jocelyn 9.4.0",
+            "album": "Jocelyn 9.4.0 · Sweet Spot · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=2740896034",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 3
+          },
+          {
+            "title": "Business & Personal (Intro)",
+            "artist": "Latto",
+            "album": "Latto · Business & Personal (Intro) · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3361198330",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 4
+          },
+          {
+            "title": "いつまでも",
+            "artist": "cittan*",
+            "album": "cittan* · カタネガイ 音楽集 · 回归热榜",
+            "year": "2026",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3341351711",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
             "rank": 5
+          },
+          {
+            "title": "Encore（无尽夏）",
+            "artist": "小林未郁",
+            "album": "小林未郁 · 神遗落的乐章 · 回归热榜",
+            "year": "2025",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3314684938",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 6
+          },
+          {
+            "title": "天上地下",
+            "artist": "宫阁",
+            "album": "宫阁 · 3030 · 回归热榜",
+            "year": "2025",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=2735604166",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 7
+          },
+          {
+            "title": "小小的眼泪",
+            "artist": "DOUDOU",
+            "album": "DOUDOU · 织·音 · 回归热榜",
+            "year": "2025",
+            "isNew": false,
+            "lastfmUrl": "https://music.163.com/#/song?id=3312282300",
+            "firstSeenAt": "2026-05-29T08:19:06+00:00",
+            "tags": [],
+            "rank": 8
           }
         ]
       },
