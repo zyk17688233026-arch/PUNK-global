@@ -12,7 +12,7 @@ const PUNK_DATA = {
         "name": "🔥 Last.fm 热门 / 新歌雷达",
         "era": "自动更新",
         "hometown": "数据源：Last.fm API",
-        "tag": "最近更新：2026-05-28T09:23:17+00:00",
+        "tag": "最近更新：2026-05-29T07:21:39+00:00",
         "songs": [
           {
             "title": "drop dead",
@@ -38,7 +38,7 @@ const PUNK_DATA = {
             "tags": [
               "pop punk"
             ],
-            "rank": 34
+            "rank": 36
           },
           {
             "title": "All I Wanted",
@@ -51,7 +51,7 @@ const PUNK_DATA = {
             "tags": [
               "pop punk"
             ],
-            "rank": 47
+            "rank": 45
           },
           {
             "title": "Misery Business",
@@ -64,7 +64,7 @@ const PUNK_DATA = {
             "tags": [
               "pop punk"
             ],
-            "rank": 63
+            "rank": 62
           },
           {
             "title": "King for a Day",
@@ -77,7 +77,7 @@ const PUNK_DATA = {
             "tags": [
               "easycore"
             ],
-            "rank": 82
+            "rank": 78
           }
         ]
       },
@@ -258,7 +258,7 @@ const PUNK_DATA = {
         "name": "🔥 Last.fm 热门 / 新歌雷达",
         "era": "自动更新",
         "hometown": "数据源：Last.fm API",
-        "tag": "最近更新：2026-05-28T09:23:17+00:00",
+        "tag": "最近更新：2026-05-29T07:21:39+00:00",
         "songs": [
           {
             "title": "drop dead",
@@ -271,7 +271,7 @@ const PUNK_DATA = {
             "tags": [
               "pop punk"
             ],
-            "rank": 8
+            "rank": 6
           },
           {
             "title": "All I Wanted",
@@ -284,7 +284,7 @@ const PUNK_DATA = {
             "tags": [
               "pop punk"
             ],
-            "rank": 93
+            "rank": 91
           },
           {
             "title": "My Own Worst Enemy",
@@ -297,7 +297,7 @@ const PUNK_DATA = {
             "tags": [
               "pop punk"
             ],
-            "rank": 95
+            "rank": 92
           }
         ]
       },
@@ -396,7 +396,7 @@ const PUNK_DATA = {
         "name": "🔥 Last.fm 热门 / 新歌雷达",
         "era": "自动更新",
         "hometown": "数据源：Last.fm API",
-        "tag": "最近更新：2026-05-28T09:23:17+00:00",
+        "tag": "最近更新：2026-05-29T07:21:39+00:00",
         "songs": [
           {
             "title": "drop dead",
@@ -422,7 +422,7 @@ const PUNK_DATA = {
             "tags": [
               "pop punk"
             ],
-            "rank": 95
+            "rank": 90
           },
           {
             "title": "Misery Business",
@@ -435,7 +435,7 @@ const PUNK_DATA = {
             "tags": [
               "pop punk"
             ],
-            "rank": 99
+            "rank": 100
           }
         ]
       },
@@ -539,6 +539,40 @@ const PUNK_DATA = {
     "scene": "南半球朋克大本营，The Amity Affliction、5SOS 享誉全球",
     "bands": [
       {
+        "name": "🔥 Last.fm 热门 / 新歌雷达",
+        "era": "自动更新",
+        "hometown": "数据源：Last.fm API",
+        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "songs": [
+          {
+            "title": "drop dead",
+            "artist": "Olivia Rodrigo",
+            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "year": "N/A",
+            "isNew": true,
+            "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
+            "firstSeenAt": "2026-05-29T07:21:39+00:00",
+            "tags": [
+              "pop punk"
+            ],
+            "rank": 4
+          },
+          {
+            "title": "All I Wanted",
+            "artist": "Paramore",
+            "album": "Paramore · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "year": "N/A",
+            "isNew": true,
+            "lastfmUrl": "https://www.last.fm/music/Paramore/_/All+I+Wanted",
+            "firstSeenAt": "2026-05-29T07:21:39+00:00",
+            "tags": [
+              "pop punk"
+            ],
+            "rank": 76
+          }
+        ]
+      },
+      {
         "name": "5 Seconds of Summer",
         "era": "2011 至今",
         "hometown": "Sydney",
@@ -610,7 +644,7 @@ const PUNK_DATA = {
         "name": "🔥 Last.fm 热门 / 新歌雷达",
         "era": "自动更新",
         "hometown": "数据源：Last.fm API",
-        "tag": "最近更新：2026-05-28T09:23:17+00:00",
+        "tag": "最近更新：2026-05-29T07:21:39+00:00",
         "songs": [
           {
             "title": "drop dead",
@@ -709,6 +743,53 @@ const PUNK_DATA = {
     "scene": "Deutschpunk 与流行朋克交融，Die Ärzte 是国宝级存在",
     "bands": [
       {
+        "name": "🔥 Last.fm 热门 / 新歌雷达",
+        "era": "自动更新",
+        "hometown": "数据源：Last.fm API",
+        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "songs": [
+          {
+            "title": "drop dead",
+            "artist": "Olivia Rodrigo",
+            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "year": "N/A",
+            "isNew": true,
+            "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
+            "firstSeenAt": "2026-05-29T07:21:39+00:00",
+            "tags": [
+              "pop punk"
+            ],
+            "rank": 11
+          },
+          {
+            "title": "Boulevard of Broken Dreams",
+            "artist": "Green Day",
+            "album": "Green Day · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "year": "N/A",
+            "isNew": true,
+            "lastfmUrl": "https://www.last.fm/music/Green+Day/_/Boulevard+of+Broken+Dreams",
+            "firstSeenAt": "2026-05-29T07:21:39+00:00",
+            "tags": [
+              "pop punk"
+            ],
+            "rank": 29
+          },
+          {
+            "title": "Teenage Dirtbag",
+            "artist": "Wheatus",
+            "album": "Wheatus · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "year": "N/A",
+            "isNew": true,
+            "lastfmUrl": "https://www.last.fm/music/Wheatus/_/Teenage+Dirtbag",
+            "firstSeenAt": "2026-05-29T07:21:39+00:00",
+            "tags": [
+              "pop punk"
+            ],
+            "rank": 52
+          }
+        ]
+      },
+      {
         "name": "Die Ärzte",
         "era": "1982 至今",
         "hometown": "Berlin",
@@ -767,6 +848,27 @@ const PUNK_DATA = {
     "scene": "拉美最大朋克市场，西语流行朋克活力四射",
     "bands": [
       {
+        "name": "🔥 Last.fm 热门 / 新歌雷达",
+        "era": "自动更新",
+        "hometown": "数据源：Last.fm API",
+        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "songs": [
+          {
+            "title": "drop dead",
+            "artist": "Olivia Rodrigo",
+            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "year": "N/A",
+            "isNew": true,
+            "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
+            "firstSeenAt": "2026-05-29T07:21:39+00:00",
+            "tags": [
+              "pop punk"
+            ],
+            "rank": 60
+          }
+        ]
+      },
+      {
         "name": "Panda",
         "era": "1996 至今",
         "hometown": "Monterrey",
@@ -811,6 +913,40 @@ const PUNK_DATA = {
     "lng": -51.9253,
     "scene": "南美朋克之都，CPM 22、NX Zero 撑起一片天",
     "bands": [
+      {
+        "name": "🔥 Last.fm 热门 / 新歌雷达",
+        "era": "自动更新",
+        "hometown": "数据源：Last.fm API",
+        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "songs": [
+          {
+            "title": "drop dead",
+            "artist": "Olivia Rodrigo",
+            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "year": "N/A",
+            "isNew": true,
+            "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
+            "firstSeenAt": "2026-05-29T07:21:39+00:00",
+            "tags": [
+              "pop punk"
+            ],
+            "rank": 3
+          },
+          {
+            "title": "All I Wanted",
+            "artist": "Paramore",
+            "album": "Paramore · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "year": "N/A",
+            "isNew": true,
+            "lastfmUrl": "https://www.last.fm/music/Paramore/_/All+I+Wanted",
+            "firstSeenAt": "2026-05-29T07:21:39+00:00",
+            "tags": [
+              "pop punk"
+            ],
+            "rank": 93
+          }
+        ]
+      },
       {
         "name": "CPM 22",
         "era": "1995 至今",
@@ -928,6 +1064,27 @@ const PUNK_DATA = {
     "scene": "Hongdae（弘大）独立场景孕育不少地下朋克力量",
     "bands": [
       {
+        "name": "🔥 Last.fm 热门 / 新歌雷达",
+        "era": "自动更新",
+        "hometown": "数据源：Last.fm API",
+        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "songs": [
+          {
+            "title": "drop dead",
+            "artist": "Olivia Rodrigo",
+            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "year": "N/A",
+            "isNew": true,
+            "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
+            "firstSeenAt": "2026-05-29T07:21:39+00:00",
+            "tags": [
+              "pop punk"
+            ],
+            "rank": 17
+          }
+        ]
+      },
+      {
         "name": "No Brain",
         "era": "1996 至今",
         "hometown": "Seoul",
@@ -976,6 +1133,27 @@ const PUNK_DATA = {
     "scene": "北欧朋克重镇，Millencolin 享誉全球",
     "bands": [
       {
+        "name": "🔥 Last.fm 热门 / 新歌雷达",
+        "era": "自动更新",
+        "hometown": "数据源：Last.fm API",
+        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "songs": [
+          {
+            "title": "drop dead",
+            "artist": "Olivia Rodrigo",
+            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "year": "N/A",
+            "isNew": true,
+            "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
+            "firstSeenAt": "2026-05-29T07:21:39+00:00",
+            "tags": [
+              "pop punk"
+            ],
+            "rank": 13
+          }
+        ]
+      },
+      {
         "name": "Millencolin",
         "era": "1992 至今",
         "hometown": "Örebro",
@@ -1021,6 +1199,27 @@ const PUNK_DATA = {
     "scene": "法语朋克别有韵味，Pleymo、Burning Heads 引领",
     "bands": [
       {
+        "name": "🔥 Last.fm 热门 / 新歌雷达",
+        "era": "自动更新",
+        "hometown": "数据源：Last.fm API",
+        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "songs": [
+          {
+            "title": "drop dead",
+            "artist": "Olivia Rodrigo",
+            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "year": "N/A",
+            "isNew": true,
+            "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
+            "firstSeenAt": "2026-05-29T07:21:39+00:00",
+            "tags": [
+              "pop punk"
+            ],
+            "rank": 11
+          }
+        ]
+      },
+      {
         "name": "Pleymo",
         "era": "1995 至今",
         "hometown": "Paris",
@@ -1055,6 +1254,27 @@ const PUNK_DATA = {
     "lng": -63.6167,
     "scene": "南美朋克热土，Attaque 77 等乐队享誉拉美",
     "bands": [
+      {
+        "name": "🔥 Last.fm 热门 / 新歌雷达",
+        "era": "自动更新",
+        "hometown": "数据源：Last.fm API",
+        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "songs": [
+          {
+            "title": "drop dead",
+            "artist": "Olivia Rodrigo",
+            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "year": "N/A",
+            "isNew": true,
+            "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
+            "firstSeenAt": "2026-05-29T07:21:39+00:00",
+            "tags": [
+              "pop punk"
+            ],
+            "rank": 15
+          }
+        ]
+      },
       {
         "name": "Attaque 77",
         "era": "1987 至今",
@@ -1096,6 +1316,40 @@ const PUNK_DATA = {
     "scene": "东南亚朋克新势力，Chicosci、Urbandub 风头正劲",
     "bands": [
       {
+        "name": "🔥 Last.fm 热门 / 新歌雷达",
+        "era": "自动更新",
+        "hometown": "数据源：Last.fm API",
+        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "songs": [
+          {
+            "title": "drop dead",
+            "artist": "Olivia Rodrigo",
+            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "year": "N/A",
+            "isNew": true,
+            "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
+            "firstSeenAt": "2026-05-29T07:21:39+00:00",
+            "tags": [
+              "pop punk"
+            ],
+            "rank": 5
+          },
+          {
+            "title": "Last Night on Earth",
+            "artist": "Green Day",
+            "album": "Green Day · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "year": "N/A",
+            "isNew": true,
+            "lastfmUrl": "https://www.last.fm/music/Green+Day/_/Last+Night+on+Earth",
+            "firstSeenAt": "2026-05-29T07:21:39+00:00",
+            "tags": [
+              "pop punk"
+            ],
+            "rank": 78
+          }
+        ]
+      },
+      {
         "name": "Chicosci",
         "era": "1998 至今",
         "hometown": "Manila",
@@ -1130,6 +1384,40 @@ const PUNK_DATA = {
     "lng": 113.9213,
     "scene": "Superman Is Dead 等让南洋朋克响彻东南亚",
     "bands": [
+      {
+        "name": "🔥 Last.fm 热门 / 新歌雷达",
+        "era": "自动更新",
+        "hometown": "数据源：Last.fm API",
+        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "songs": [
+          {
+            "title": "drop dead",
+            "artist": "Olivia Rodrigo",
+            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "year": "N/A",
+            "isNew": true,
+            "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
+            "firstSeenAt": "2026-05-29T07:21:39+00:00",
+            "tags": [
+              "pop punk"
+            ],
+            "rank": 15
+          },
+          {
+            "title": "Last Night on Earth",
+            "artist": "Green Day",
+            "album": "Green Day · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "year": "N/A",
+            "isNew": true,
+            "lastfmUrl": "https://www.last.fm/music/Green+Day/_/Last+Night+on+Earth",
+            "firstSeenAt": "2026-05-29T07:21:39+00:00",
+            "tags": [
+              "pop punk"
+            ],
+            "rank": 94
+          }
+        ]
+      },
       {
         "name": "Superman Is Dead",
         "era": "1995 至今",
@@ -1171,6 +1459,27 @@ const PUNK_DATA = {
     "scene": "Punkreas、Vanilla Sky 等带来意式朋克热情",
     "bands": [
       {
+        "name": "🔥 Last.fm 热门 / 新歌雷达",
+        "era": "自动更新",
+        "hometown": "数据源：Last.fm API",
+        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "songs": [
+          {
+            "title": "drop dead",
+            "artist": "Olivia Rodrigo",
+            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "year": "N/A",
+            "isNew": true,
+            "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
+            "firstSeenAt": "2026-05-29T07:21:39+00:00",
+            "tags": [
+              "pop punk"
+            ],
+            "rank": 15
+          }
+        ]
+      },
+      {
         "name": "Vanilla Sky",
         "era": "1999 至今",
         "hometown": "Rome",
@@ -1197,6 +1506,27 @@ const PUNK_DATA = {
     "lng": 105.3188,
     "scene": "Korol i Shut、Tarakany! 等俄式朋克独具风格",
     "bands": [
+      {
+        "name": "🔥 Last.fm 热门 / 新歌雷达",
+        "era": "自动更新",
+        "hometown": "数据源：Last.fm API",
+        "tag": "最近更新：2026-05-29T07:21:39+00:00",
+        "songs": [
+          {
+            "title": "drop dead",
+            "artist": "Olivia Rodrigo",
+            "album": "Olivia Rodrigo · Single / 未知专辑 · 🆕 新上榜 · pop punk",
+            "year": "N/A",
+            "isNew": true,
+            "lastfmUrl": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
+            "firstSeenAt": "2026-05-29T07:21:39+00:00",
+            "tags": [
+              "pop punk"
+            ],
+            "rank": 5
+          }
+        ]
+      },
       {
         "name": "Tarakany!",
         "era": "1991 至今",
