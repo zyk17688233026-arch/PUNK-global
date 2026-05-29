@@ -40,22 +40,30 @@ DEFAULT_COUNTRIES = [
 ]
 COUNTRY_NAME_MAP = {
     "US": "United States",
-    "CA": "Canada",
     "GB": "United Kingdom",
-    "AU": "Australia",
     "JP": "Japan",
+    "CA": "Canada",
+    "AU": "Australia",
     "DE": "Germany",
-    "MX": "Mexico",
     "BR": "Brazil",
-    "CN": "China",
-    "KR": "South Korea",
-    "SE": "Sweden",
     "FR": "France",
+    "MX": "Mexico",
+    "SE": "Sweden",
+    "IT": "Italy",
+    "ES": "Spain",
     "AR": "Argentina",
     "PH": "Philippines",
     "ID": "Indonesia",
-    "IT": "Italy",
-    "RU": "Russia",
+    "RU": "Russian Federation",
+    "KR": "Korea, Republic of",
+    "FI": "Finland",
+    "NL": "Netherlands",
+    "NZ": "New Zealand",
+    "IE": "Ireland",
+    "NO": "Norway",
+    "DK": "Denmark",
+    "PL": "Poland",
+    "CL": "Chile"
 }
 TAG_CANDIDATES = [
     "pop punk",
@@ -178,20 +186,23 @@ def save_state(path: Path, state: dict) -> None:
     path.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
-def http_get_json(params: Dict[str, object]) -> dict:
+def http_get_json(params: Dict[str, object], timeout: float = 10.0) -> dict:
     url = f"{API_ROOT}?{urlencode(params)}"
     req = Request(url, headers={"User-Agent": USER_AGENT})
     try:
-        with urlopen(req, timeout=30) as resp:
+        with urlopen(req, timeout=timeout) as resp:
             payload = resp.read().decode("utf-8")
     except HTTPError as exc:
-        raise LastFMError(f"HTTP {exc.code} 请求失败：{url}") from exc
-    except URLError as exc:
-        raise LastFMError(f"网络请求失败：{url} -> {exc}") from exc
+        print(f"[WARN] HTTP {exc.code} 请求失败，跳过: {url}")
+        return {}
+    except (URLError, socket.timeout, TimeoutError) as exc:
+        print(f"[WARN] 网络超时或断开，跳过: {url}")
+        return {}
     try:
         data = json.loads(payload)
     except json.JSONDecodeError as exc:
-        raise LastFMError(f"返回内容不是合法 JSON：{url}") from exc
+        print(f"[WARN] 返回内容不是合法 JSON，跳过: {url}")
+        return {}
     if isinstance(data, dict) and "error" in data:
         raise LastFMError(f"Last.fm API error {data.get('error')}: {data.get('message')}")
     return data
@@ -209,9 +220,8 @@ class LastFMClient:
     def _call(self, method: str, **kwargs) -> dict:
         params = {"method": method, "api_key": self.api_key, "format": "json"}
         params.update(kwargs)
-        if self.verbose:
-            print(f"[Last.fm] {method} {kwargs}")
-        data = http_get_json(params)
+        print(f"[Last.fm] 请求: {method} {kwargs}")
+        data = http_get_json(params, timeout=5.0)
         if self.sleep_seconds:
             time.sleep(self.sleep_seconds)
         return data
@@ -451,16 +461,20 @@ def main() -> int:
             continue
         country_name = COUNTRY_NAME_MAP[code]
         state_country = state_countries.setdefault(code, {})
-        records, updated_state_country = classify_country_tracks(
-            client=client,
-            country_name=country_name,
-            tag_pool=tag_pool,
-            per_country_limit=args.per_country_limit,
-            geo_pages=args.geo_pages,
-            geo_page_size=args.geo_page_size,
-            state_country=state_country,
-            update_timestamp=update_timestamp,
-        )
+        try:
+            records, updated_state_country = classify_country_tracks(
+                client=client,
+                country_name=country_name,
+                tag_pool=tag_pool,
+                per_country_limit=args.per_country_limit,
+                geo_pages=args.geo_pages,
+                geo_page_size=args.geo_page_size,
+                state_country=state_country,
+                update_timestamp=update_timestamp,
+            )
+        except LastFMError as e:
+            print(f"[ERROR] 获取国家 {country_name} 数据失败: {e}", file=sys.stderr)
+            continue
         state_countries[code] = updated_state_country
         dynamic_band = build_dynamic_band(records, update_timestamp)
         merge_dynamic_band(data[code], dynamic_band)
